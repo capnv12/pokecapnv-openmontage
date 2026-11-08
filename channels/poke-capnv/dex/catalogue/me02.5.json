@@ -1,0 +1,6594 @@
+{
+ "set": "me02.5",
+ "name": "Ascended Heroes",
+ "abbreviation": "ASC",
+ "releaseDate": "2026-01-30",
+ "cardCount": {
+  "firstEd": 0,
+  "holo": 153,
+  "normal": 158,
+  "official": 217,
+  "reverse": 318,
+  "total": 295
+ },
+ "pulled": "2026-11-08",
+ "source": "https://api.tcgdex.net/v2/en/sets/me02.5",
+ "cards": [
+  {
+   "id": "me02.5-001",
+   "set": "me02.5",
+   "number": "001",
+   "name": "Erika's Oddish",
+   "category": "Pokemon",
+   "dex": [
+    43
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yoriyuki Ikegami",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/001"
+  },
+  {
+   "id": "me02.5-002",
+   "set": "me02.5",
+   "number": "002",
+   "name": "Erika's Gloom",
+   "category": "Pokemon",
+   "dex": [
+    44
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Erika's Oddish",
+   "regulationMark": "J",
+   "illustrator": "MARINA Chikazawa",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/002"
+  },
+  {
+   "id": "me02.5-003",
+   "set": "me02.5",
+   "number": "003",
+   "name": "Erika's Vileplume ex",
+   "category": "Pokemon",
+   "dex": [
+    45
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Erika's Gloom",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/003"
+  },
+  {
+   "id": "me02.5-004",
+   "set": "me02.5",
+   "number": "004",
+   "name": "Erika's Bellsprout",
+   "category": "Pokemon",
+   "dex": [
+    69
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "sui",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/004"
+  },
+  {
+   "id": "me02.5-005",
+   "set": "me02.5",
+   "number": "005",
+   "name": "Erika's Weepinbell",
+   "category": "Pokemon",
+   "dex": [
+    70
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Erika's Bellsprout",
+   "regulationMark": "J",
+   "illustrator": "LINNE",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/005"
+  },
+  {
+   "id": "me02.5-006",
+   "set": "me02.5",
+   "number": "006",
+   "name": "Erika's Victreebel",
+   "category": "Pokemon",
+   "dex": [
+    71
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Erika's Weepinbell",
+   "regulationMark": "J",
+   "illustrator": "takashi shiraishi",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/006"
+  },
+  {
+   "id": "me02.5-007",
+   "set": "me02.5",
+   "number": "007",
+   "name": "Erika's Tangela",
+   "category": "Pokemon",
+   "dex": [
+    114
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "GIDORA",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/007"
+  },
+  {
+   "id": "me02.5-008",
+   "set": "me02.5",
+   "number": "008",
+   "name": "Chikorita",
+   "category": "Pokemon",
+   "dex": [
+    152
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kariya",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/008"
+  },
+  {
+   "id": "me02.5-009",
+   "set": "me02.5",
+   "number": "009",
+   "name": "Bayleef",
+   "category": "Pokemon",
+   "dex": [
+    153
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Chikorita",
+   "regulationMark": "J",
+   "illustrator": "Tomomi Ozaki",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/009"
+  },
+  {
+   "id": "me02.5-010",
+   "set": "me02.5",
+   "number": "010",
+   "name": "Mega Meganium ex",
+   "category": "Pokemon",
+   "dex": [
+    154
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Bayleef",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/010"
+  },
+  {
+   "id": "me02.5-011",
+   "set": "me02.5",
+   "number": "011",
+   "name": "Wurmple",
+   "category": "Pokemon",
+   "dex": [
+    265
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "USGMEN",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/011"
+  },
+  {
+   "id": "me02.5-012",
+   "set": "me02.5",
+   "number": "012",
+   "name": "Silcoon",
+   "category": "Pokemon",
+   "dex": [
+    266
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Wurmple",
+   "regulationMark": "I",
+   "illustrator": "Eri Yamaki",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/012"
+  },
+  {
+   "id": "me02.5-013",
+   "set": "me02.5",
+   "number": "013",
+   "name": "Beautifly",
+   "category": "Pokemon",
+   "dex": [
+    267
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Silcoon",
+   "regulationMark": "I",
+   "illustrator": "Narumi Sato",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/013"
+  },
+  {
+   "id": "me02.5-014",
+   "set": "me02.5",
+   "number": "014",
+   "name": "Cascoon",
+   "category": "Pokemon",
+   "dex": [
+    268
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Wurmple",
+   "regulationMark": "I",
+   "illustrator": "Dsuke",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/014"
+  },
+  {
+   "id": "me02.5-015",
+   "set": "me02.5",
+   "number": "015",
+   "name": "Dustox",
+   "category": "Pokemon",
+   "dex": [
+    269
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Cascoon",
+   "regulationMark": "I",
+   "illustrator": "kamonabe",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/015"
+  },
+  {
+   "id": "me02.5-016",
+   "set": "me02.5",
+   "number": "016",
+   "name": "Budew",
+   "category": "Pokemon",
+   "dex": [
+    406
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Yoriyuki Ikegami",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/016"
+  },
+  {
+   "id": "me02.5-017",
+   "set": "me02.5",
+   "number": "017",
+   "name": "Grubbin",
+   "category": "Pokemon",
+   "dex": [
+    736
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Jerky",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/017"
+  },
+  {
+   "id": "me02.5-018",
+   "set": "me02.5",
+   "number": "018",
+   "name": "Team Rocket's Tarountula",
+   "category": "Pokemon",
+   "dex": [
+    917
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Saboteri",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/018"
+  },
+  {
+   "id": "me02.5-019",
+   "set": "me02.5",
+   "number": "019",
+   "name": "Team Rocket's Spidops",
+   "category": "Pokemon",
+   "dex": [
+    918
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Team Rocket's Tarountula",
+   "regulationMark": "I",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/019"
+  },
+  {
+   "id": "me02.5-020",
+   "set": "me02.5",
+   "number": "020",
+   "name": "Charmander",
+   "category": "Pokemon",
+   "dex": [
+    4
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Orca",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/020"
+  },
+  {
+   "id": "me02.5-021",
+   "set": "me02.5",
+   "number": "021",
+   "name": "Charmeleon",
+   "category": "Pokemon",
+   "dex": [
+    5
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Charmander",
+   "regulationMark": "J",
+   "illustrator": "Julie Hang",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/021"
+  },
+  {
+   "id": "me02.5-022",
+   "set": "me02.5",
+   "number": "022",
+   "name": "Mega Charizard Y ex",
+   "category": "Pokemon",
+   "dex": [
+    6
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Charmeleon",
+   "regulationMark": "J",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/022"
+  },
+  {
+   "id": "me02.5-023",
+   "set": "me02.5",
+   "number": "023",
+   "name": "Ethan's Slugma",
+   "category": "Pokemon",
+   "dex": [
+    218
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/023"
+  },
+  {
+   "id": "me02.5-024",
+   "set": "me02.5",
+   "number": "024",
+   "name": "Ethan's Magcargo",
+   "category": "Pokemon",
+   "dex": [
+    219
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Ethan's Slugma",
+   "regulationMark": "I",
+   "illustrator": "kodama",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/024"
+  },
+  {
+   "id": "me02.5-025",
+   "set": "me02.5",
+   "number": "025",
+   "name": "Entei",
+   "category": "Pokemon",
+   "dex": [
+    244
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/025"
+  },
+  {
+   "id": "me02.5-026",
+   "set": "me02.5",
+   "number": "026",
+   "name": "Ethan's Ho-Oh ex",
+   "category": "Pokemon",
+   "dex": [
+    250
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/026"
+  },
+  {
+   "id": "me02.5-027",
+   "set": "me02.5",
+   "number": "027",
+   "name": "Numel",
+   "category": "Pokemon",
+   "dex": [
+    322
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Ounishi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/027"
+  },
+  {
+   "id": "me02.5-028",
+   "set": "me02.5",
+   "number": "028",
+   "name": "Camerupt",
+   "category": "Pokemon",
+   "dex": [
+    323
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Numel",
+   "regulationMark": "I",
+   "illustrator": "Minahamu",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/028"
+  },
+  {
+   "id": "me02.5-029",
+   "set": "me02.5",
+   "number": "029",
+   "name": "Tepig",
+   "category": "Pokemon",
+   "dex": [
+    498
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Uninori",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/029"
+  },
+  {
+   "id": "me02.5-030",
+   "set": "me02.5",
+   "number": "030",
+   "name": "Pignite",
+   "category": "Pokemon",
+   "dex": [
+    499
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Tepig",
+   "regulationMark": "J",
+   "illustrator": "Aliya Chen",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/030"
+  },
+  {
+   "id": "me02.5-031",
+   "set": "me02.5",
+   "number": "031",
+   "name": "Mega Emboar ex",
+   "category": "Pokemon",
+   "dex": [
+    500
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Pignite",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/031"
+  },
+  {
+   "id": "me02.5-032",
+   "set": "me02.5",
+   "number": "032",
+   "name": "N's Darumaka",
+   "category": "Pokemon",
+   "dex": [
+    554
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Gemi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/032"
+  },
+  {
+   "id": "me02.5-033",
+   "set": "me02.5",
+   "number": "033",
+   "name": "N's Darmanitan",
+   "category": "Pokemon",
+   "dex": [
+    555
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "N's Darumaka",
+   "regulationMark": "I",
+   "illustrator": "nagimiso",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/033"
+  },
+  {
+   "id": "me02.5-034",
+   "set": "me02.5",
+   "number": "034",
+   "name": "Salandit",
+   "category": "Pokemon",
+   "dex": [
+    757
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Felicia Chen",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/034"
+  },
+  {
+   "id": "me02.5-035",
+   "set": "me02.5",
+   "number": "035",
+   "name": "Salazzle",
+   "category": "Pokemon",
+   "dex": [
+    758
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Salandit",
+   "regulationMark": "H",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/035"
+  },
+  {
+   "id": "me02.5-036",
+   "set": "me02.5",
+   "number": "036",
+   "name": "Scorbunny",
+   "category": "Pokemon",
+   "dex": [
+    813
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Cona Nitanda",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/036"
+  },
+  {
+   "id": "me02.5-037",
+   "set": "me02.5",
+   "number": "037",
+   "name": "Raboot",
+   "category": "Pokemon",
+   "dex": [
+    814
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Scorbunny",
+   "regulationMark": "H",
+   "illustrator": "aspara",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/037"
+  },
+  {
+   "id": "me02.5-038",
+   "set": "me02.5",
+   "number": "038",
+   "name": "Cinderace ex",
+   "category": "Pokemon",
+   "dex": [
+    815
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Raboot",
+   "regulationMark": "H",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/038"
+  },
+  {
+   "id": "me02.5-039",
+   "set": "me02.5",
+   "number": "039",
+   "name": "Psyduck",
+   "category": "Pokemon",
+   "dex": [
+    54
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/039"
+  },
+  {
+   "id": "me02.5-040",
+   "set": "me02.5",
+   "number": "040",
+   "name": "Golduck",
+   "category": "Pokemon",
+   "dex": [
+    55
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Psyduck",
+   "regulationMark": "I",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/040"
+  },
+  {
+   "id": "me02.5-041",
+   "set": "me02.5",
+   "number": "041",
+   "name": "Totodile",
+   "category": "Pokemon",
+   "dex": [
+    158
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "REND",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/041"
+  },
+  {
+   "id": "me02.5-042",
+   "set": "me02.5",
+   "number": "042",
+   "name": "Croconaw",
+   "category": "Pokemon",
+   "dex": [
+    159
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Totodile",
+   "regulationMark": "J",
+   "illustrator": "Felicia Chen",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/042"
+  },
+  {
+   "id": "me02.5-043",
+   "set": "me02.5",
+   "number": "043",
+   "name": "Mega Feraligatr ex",
+   "category": "Pokemon",
+   "dex": [
+    160
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Croconaw",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/043"
+  },
+  {
+   "id": "me02.5-044",
+   "set": "me02.5",
+   "number": "044",
+   "name": "Sneasel",
+   "category": "Pokemon",
+   "dex": [
+    215
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Krgc",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/044"
+  },
+  {
+   "id": "me02.5-045",
+   "set": "me02.5",
+   "number": "045",
+   "name": "Weavile",
+   "category": "Pokemon",
+   "dex": [
+    461
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Sneasel",
+   "regulationMark": "H",
+   "illustrator": "aspara",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/045"
+  },
+  {
+   "id": "me02.5-046",
+   "set": "me02.5",
+   "number": "046",
+   "name": "Snorunt",
+   "category": "Pokemon",
+   "dex": [
+    361
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Wintr Wandr",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/046"
+  },
+  {
+   "id": "me02.5-047",
+   "set": "me02.5",
+   "number": "047",
+   "name": "Mega Froslass ex",
+   "category": "Pokemon",
+   "dex": [
+    478
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Snorunt",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/047"
+  },
+  {
+   "id": "me02.5-048",
+   "set": "me02.5",
+   "number": "048",
+   "name": "Regice ex",
+   "category": "Pokemon",
+   "dex": [
+    378
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "akagi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/048"
+  },
+  {
+   "id": "me02.5-049",
+   "set": "me02.5",
+   "number": "049",
+   "name": "N's Vanillite",
+   "category": "Pokemon",
+   "dex": [
+    582
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "yuu",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/049"
+  },
+  {
+   "id": "me02.5-050",
+   "set": "me02.5",
+   "number": "050",
+   "name": "N's Vanillish",
+   "category": "Pokemon",
+   "dex": [
+    583
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "N's Vanillite",
+   "regulationMark": "I",
+   "illustrator": "kirisAki",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/050"
+  },
+  {
+   "id": "me02.5-051",
+   "set": "me02.5",
+   "number": "051",
+   "name": "N's Vanilluxe",
+   "category": "Pokemon",
+   "dex": [
+    584
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "N's Vanillish",
+   "regulationMark": "I",
+   "illustrator": "imoniii",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/051"
+  },
+  {
+   "id": "me02.5-052",
+   "set": "me02.5",
+   "number": "052",
+   "name": "Snom",
+   "category": "Pokemon",
+   "dex": [
+    872
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Izucch",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/052"
+  },
+  {
+   "id": "me02.5-053",
+   "set": "me02.5",
+   "number": "053",
+   "name": "Frosmoth",
+   "category": "Pokemon",
+   "dex": [
+    873
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Snom",
+   "regulationMark": "I",
+   "illustrator": "cochi8i",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/053"
+  },
+  {
+   "id": "me02.5-054",
+   "set": "me02.5",
+   "number": "054",
+   "name": "Glastrier",
+   "category": "Pokemon",
+   "dex": [
+    896
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "mashu",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/054"
+  },
+  {
+   "id": "me02.5-055",
+   "set": "me02.5",
+   "number": "055",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "kamonabe",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/055"
+  },
+  {
+   "id": "me02.5-056",
+   "set": "me02.5",
+   "number": "056",
+   "name": "Raichu",
+   "category": "Pokemon",
+   "dex": [
+    26
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Pikachu",
+   "regulationMark": "J",
+   "illustrator": "Iori Suzuki",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/056"
+  },
+  {
+   "id": "me02.5-057",
+   "set": "me02.5",
+   "number": "057",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/057"
+  },
+  {
+   "id": "me02.5-058",
+   "set": "me02.5",
+   "number": "058",
+   "name": "Voltorb ex",
+   "category": "Pokemon",
+   "dex": [
+    100
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/058"
+  },
+  {
+   "id": "me02.5-059",
+   "set": "me02.5",
+   "number": "059",
+   "name": "Tynamo",
+   "category": "Pokemon",
+   "dex": [
+    602
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Jerky",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/059"
+  },
+  {
+   "id": "me02.5-060",
+   "set": "me02.5",
+   "number": "060",
+   "name": "Eelektrik",
+   "category": "Pokemon",
+   "dex": [
+    603
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Tynamo",
+   "regulationMark": "I",
+   "illustrator": "Jerky",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/060"
+  },
+  {
+   "id": "me02.5-061",
+   "set": "me02.5",
+   "number": "061",
+   "name": "Mega Eelektross ex",
+   "category": "Pokemon",
+   "dex": [
+    604
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Eelektrik",
+   "regulationMark": "I",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/061"
+  },
+  {
+   "id": "me02.5-062",
+   "set": "me02.5",
+   "number": "062",
+   "name": "Stunfisk",
+   "category": "Pokemon",
+   "dex": [
+    618
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Tetsu Kayama",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/062"
+  },
+  {
+   "id": "me02.5-063",
+   "set": "me02.5",
+   "number": "063",
+   "name": "Helioptile",
+   "category": "Pokemon",
+   "dex": [
+    694
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Tika Matsuno",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/063"
+  },
+  {
+   "id": "me02.5-064",
+   "set": "me02.5",
+   "number": "064",
+   "name": "Heliolisk",
+   "category": "Pokemon",
+   "dex": [
+    695
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Helioptile",
+   "regulationMark": "I",
+   "illustrator": "svlt",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/064"
+  },
+  {
+   "id": "me02.5-065",
+   "set": "me02.5",
+   "number": "065",
+   "name": "Charjabug",
+   "category": "Pokemon",
+   "dex": [
+    737
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Grubbin",
+   "regulationMark": "H",
+   "illustrator": "Misa Tsutsui",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/065"
+  },
+  {
+   "id": "me02.5-066",
+   "set": "me02.5",
+   "number": "066",
+   "name": "Vikavolt",
+   "category": "Pokemon",
+   "dex": [
+    738
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Charjabug",
+   "regulationMark": "H",
+   "illustrator": "Shiburingaru",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/066"
+  },
+  {
+   "id": "me02.5-067",
+   "set": "me02.5",
+   "number": "067",
+   "name": "Tapu Koko",
+   "category": "Pokemon",
+   "dex": [
+    785
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/067"
+  },
+  {
+   "id": "me02.5-068",
+   "set": "me02.5",
+   "number": "068",
+   "name": "Hop's Pincurchin ex",
+   "category": "Pokemon",
+   "dex": [
+    871
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/068"
+  },
+  {
+   "id": "me02.5-069",
+   "set": "me02.5",
+   "number": "069",
+   "name": "Iono's Tadbulb",
+   "category": "Pokemon",
+   "dex": [
+    938
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "kurumitsu",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/069"
+  },
+  {
+   "id": "me02.5-070",
+   "set": "me02.5",
+   "number": "070",
+   "name": "Iono's Bellibolt ex",
+   "category": "Pokemon",
+   "dex": [
+    939
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Iono's Tadbulb",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/070"
+  },
+  {
+   "id": "me02.5-071",
+   "set": "me02.5",
+   "number": "071",
+   "name": "Iono's Wattrel",
+   "category": "Pokemon",
+   "dex": [
+    940
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Akira Komayama",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/071"
+  },
+  {
+   "id": "me02.5-072",
+   "set": "me02.5",
+   "number": "072",
+   "name": "Iono's Kilowattrel",
+   "category": "Pokemon",
+   "dex": [
+    941
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Iono's Wattrel",
+   "regulationMark": "I",
+   "illustrator": "chibi",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/072"
+  },
+  {
+   "id": "me02.5-073",
+   "set": "me02.5",
+   "number": "073",
+   "name": "Miraidon ex",
+   "category": "Pokemon",
+   "dex": [
+    1008
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/073"
+  },
+  {
+   "id": "me02.5-074",
+   "set": "me02.5",
+   "number": "074",
+   "name": "Clefairy",
+   "category": "Pokemon",
+   "dex": [
+    35
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "satoma",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/074"
+  },
+  {
+   "id": "me02.5-075",
+   "set": "me02.5",
+   "number": "075",
+   "name": "Clefable",
+   "category": "Pokemon",
+   "dex": [
+    36
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Clefairy",
+   "regulationMark": "H",
+   "illustrator": "satoma",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/075"
+  },
+  {
+   "id": "me02.5-076",
+   "set": "me02.5",
+   "number": "076",
+   "name": "Lillie's Clefairy ex",
+   "category": "Pokemon",
+   "dex": [
+    35
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/076"
+  },
+  {
+   "id": "me02.5-077",
+   "set": "me02.5",
+   "number": "077",
+   "name": "Team Rocket's Exeggcute",
+   "category": "Pokemon",
+   "dex": [
+    102
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Gapao",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/077"
+  },
+  {
+   "id": "me02.5-078",
+   "set": "me02.5",
+   "number": "078",
+   "name": "Team Rocket's Exeggutor",
+   "category": "Pokemon",
+   "dex": [
+    103
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Team Rocket's Exeggcute",
+   "regulationMark": "I",
+   "illustrator": "Ryuta Fuse",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/078"
+  },
+  {
+   "id": "me02.5-079",
+   "set": "me02.5",
+   "number": "079",
+   "name": "Team Rocket's Mewtwo ex",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/079"
+  },
+  {
+   "id": "me02.5-080",
+   "set": "me02.5",
+   "number": "080",
+   "name": "Togepi",
+   "category": "Pokemon",
+   "dex": [
+    175
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Yoko Hishida",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/080"
+  },
+  {
+   "id": "me02.5-081",
+   "set": "me02.5",
+   "number": "081",
+   "name": "Togetic",
+   "category": "Pokemon",
+   "dex": [
+    176
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Togepi",
+   "regulationMark": "H",
+   "illustrator": "Teeziro",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/081"
+  },
+  {
+   "id": "me02.5-082",
+   "set": "me02.5",
+   "number": "082",
+   "name": "Togekiss",
+   "category": "Pokemon",
+   "dex": [
+    468
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Togetic",
+   "regulationMark": "H",
+   "illustrator": "Narano",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/082"
+  },
+  {
+   "id": "me02.5-083",
+   "set": "me02.5",
+   "number": "083",
+   "name": "Marill",
+   "category": "Pokemon",
+   "dex": [
+    183
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yoshimoto Yoshimon",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/083"
+  },
+  {
+   "id": "me02.5-084",
+   "set": "me02.5",
+   "number": "084",
+   "name": "Azumarill ex",
+   "category": "Pokemon",
+   "dex": [
+    184
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Marill",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/084"
+  },
+  {
+   "id": "me02.5-085",
+   "set": "me02.5",
+   "number": "085",
+   "name": "Misdreavus",
+   "category": "Pokemon",
+   "dex": [
+    200
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Kazuhisa Uragami",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/085"
+  },
+  {
+   "id": "me02.5-086",
+   "set": "me02.5",
+   "number": "086",
+   "name": "Mismagius",
+   "category": "Pokemon",
+   "dex": [
+    429
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Misdreavus",
+   "regulationMark": "I",
+   "illustrator": "nisimono",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/086"
+  },
+  {
+   "id": "me02.5-087",
+   "set": "me02.5",
+   "number": "087",
+   "name": "Ralts",
+   "category": "Pokemon",
+   "dex": [
+    280
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Terada Tera",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/087"
+  },
+  {
+   "id": "me02.5-088",
+   "set": "me02.5",
+   "number": "088",
+   "name": "Kirlia",
+   "category": "Pokemon",
+   "dex": [
+    281
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Ralts",
+   "regulationMark": "I",
+   "illustrator": "satoma",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/088"
+  },
+  {
+   "id": "me02.5-089",
+   "set": "me02.5",
+   "number": "089",
+   "name": "Mega Gardevoir ex",
+   "category": "Pokemon",
+   "dex": [
+    282
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Kirlia",
+   "regulationMark": "I",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/089"
+  },
+  {
+   "id": "me02.5-090",
+   "set": "me02.5",
+   "number": "090",
+   "name": "Shuppet",
+   "category": "Pokemon",
+   "dex": [
+    353
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "miki kudo",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/090"
+  },
+  {
+   "id": "me02.5-091",
+   "set": "me02.5",
+   "number": "091",
+   "name": "Banette",
+   "category": "Pokemon",
+   "dex": [
+    354
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Shuppet",
+   "regulationMark": "I",
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/091"
+  },
+  {
+   "id": "me02.5-092",
+   "set": "me02.5",
+   "number": "092",
+   "name": "Rotom",
+   "category": "Pokemon",
+   "dex": [
+    479
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "mingo",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/092"
+  },
+  {
+   "id": "me02.5-093",
+   "set": "me02.5",
+   "number": "093",
+   "name": "Swirlix",
+   "category": "Pokemon",
+   "dex": [
+    684
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saya Tsuruta",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/093"
+  },
+  {
+   "id": "me02.5-094",
+   "set": "me02.5",
+   "number": "094",
+   "name": "Slurpuff",
+   "category": "Pokemon",
+   "dex": [
+    685
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Swirlix",
+   "regulationMark": "J",
+   "illustrator": "Natsumi Yoshida",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/094"
+  },
+  {
+   "id": "me02.5-095",
+   "set": "me02.5",
+   "number": "095",
+   "name": "Hop's Phantump",
+   "category": "Pokemon",
+   "dex": [
+    708
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "tono",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/095"
+  },
+  {
+   "id": "me02.5-096",
+   "set": "me02.5",
+   "number": "096",
+   "name": "Hop's Trevenant",
+   "category": "Pokemon",
+   "dex": [
+    709
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Hop's Phantump",
+   "regulationMark": "I",
+   "illustrator": "matazo",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/096"
+  },
+  {
+   "id": "me02.5-097",
+   "set": "me02.5",
+   "number": "097",
+   "name": "Team Rocket's Mimikyu",
+   "category": "Pokemon",
+   "dex": [
+    778
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "DOM",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/097"
+  },
+  {
+   "id": "me02.5-098",
+   "set": "me02.5",
+   "number": "098",
+   "name": "Spectrier",
+   "category": "Pokemon",
+   "dex": [
+    897
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/098"
+  },
+  {
+   "id": "me02.5-099",
+   "set": "me02.5",
+   "number": "099",
+   "name": "Munkidori",
+   "category": "Pokemon",
+   "dex": [
+    1015
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "kodama",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/099"
+  },
+  {
+   "id": "me02.5-100",
+   "set": "me02.5",
+   "number": "100",
+   "name": "Team Rocket's Diglett",
+   "category": "Pokemon",
+   "dex": [
+    50
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yuriko Akase",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/100"
+  },
+  {
+   "id": "me02.5-101",
+   "set": "me02.5",
+   "number": "101",
+   "name": "Team Rocket's Dugtrio",
+   "category": "Pokemon",
+   "dex": [
+    51
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Team Rocket's Diglett",
+   "regulationMark": "I",
+   "illustrator": "KEIICHIRO ITO",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/101"
+  },
+  {
+   "id": "me02.5-102",
+   "set": "me02.5",
+   "number": "102",
+   "name": "Hitmontop",
+   "category": "Pokemon",
+   "dex": [
+    237
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kouki Saitou",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/102"
+  },
+  {
+   "id": "me02.5-103",
+   "set": "me02.5",
+   "number": "103",
+   "name": "Meditite",
+   "category": "Pokemon",
+   "dex": [
+    307
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Lee HyunJung",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/103"
+  },
+  {
+   "id": "me02.5-104",
+   "set": "me02.5",
+   "number": "104",
+   "name": "Medicham",
+   "category": "Pokemon",
+   "dex": [
+    308
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Meditite",
+   "regulationMark": "I",
+   "illustrator": "GIDORA",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/104"
+  },
+  {
+   "id": "me02.5-105",
+   "set": "me02.5",
+   "number": "105",
+   "name": "Lunatone",
+   "category": "Pokemon",
+   "dex": [
+    337
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Whisker",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/105"
+  },
+  {
+   "id": "me02.5-106",
+   "set": "me02.5",
+   "number": "106",
+   "name": "Solrock",
+   "category": "Pokemon",
+   "dex": [
+    338
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Whisker",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/106"
+  },
+  {
+   "id": "me02.5-107",
+   "set": "me02.5",
+   "number": "107",
+   "name": "Regirock ex",
+   "category": "Pokemon",
+   "dex": [
+    377
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/107"
+  },
+  {
+   "id": "me02.5-108",
+   "set": "me02.5",
+   "number": "108",
+   "name": "Groudon",
+   "category": "Pokemon",
+   "dex": [
+    383
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/108"
+  },
+  {
+   "id": "me02.5-109",
+   "set": "me02.5",
+   "number": "109",
+   "name": "Cynthia's Gible",
+   "category": "Pokemon",
+   "dex": [
+    443
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Tomomi Ozaki",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/109"
+  },
+  {
+   "id": "me02.5-110",
+   "set": "me02.5",
+   "number": "110",
+   "name": "Cynthia's Gabite",
+   "category": "Pokemon",
+   "dex": [
+    444
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Cynthia's Gible",
+   "regulationMark": "I",
+   "illustrator": "Taira Akitsu",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/110"
+  },
+  {
+   "id": "me02.5-111",
+   "set": "me02.5",
+   "number": "111",
+   "name": "Cynthia's Garchomp ex",
+   "category": "Pokemon",
+   "dex": [
+    445
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Cynthia's Gabite",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/111"
+  },
+  {
+   "id": "me02.5-112",
+   "set": "me02.5",
+   "number": "112",
+   "name": "Riolu",
+   "category": "Pokemon",
+   "dex": [
+    447
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "hncl",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/112"
+  },
+  {
+   "id": "me02.5-113",
+   "set": "me02.5",
+   "number": "113",
+   "name": "Mega Lucario ex",
+   "category": "Pokemon",
+   "dex": [
+    448
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Riolu",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/113"
+  },
+  {
+   "id": "me02.5-114",
+   "set": "me02.5",
+   "number": "114",
+   "name": "Stunfisk ex",
+   "category": "Pokemon",
+   "dex": [
+    618
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/114"
+  },
+  {
+   "id": "me02.5-115",
+   "set": "me02.5",
+   "number": "115",
+   "name": "Pancham",
+   "category": "Pokemon",
+   "dex": [
+    674
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Minato",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/115"
+  },
+  {
+   "id": "me02.5-116",
+   "set": "me02.5",
+   "number": "116",
+   "name": "Mega Hawlucha ex",
+   "category": "Pokemon",
+   "dex": [
+    701
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/116"
+  },
+  {
+   "id": "me02.5-117",
+   "set": "me02.5",
+   "number": "117",
+   "name": "Carbink",
+   "category": "Pokemon",
+   "dex": [
+    703
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Eri Kamei",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/117"
+  },
+  {
+   "id": "me02.5-118",
+   "set": "me02.5",
+   "number": "118",
+   "name": "Rolycoly",
+   "category": "Pokemon",
+   "dex": [
+    837
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Kurata So",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/118"
+  },
+  {
+   "id": "me02.5-119",
+   "set": "me02.5",
+   "number": "119",
+   "name": "Carkol",
+   "category": "Pokemon",
+   "dex": [
+    838
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Rolycoly",
+   "regulationMark": "I",
+   "illustrator": "Apios",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/119"
+  },
+  {
+   "id": "me02.5-120",
+   "set": "me02.5",
+   "number": "120",
+   "name": "Coalossal",
+   "category": "Pokemon",
+   "dex": [
+    839
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Carkol",
+   "regulationMark": "I",
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/120"
+  },
+  {
+   "id": "me02.5-121",
+   "set": "me02.5",
+   "number": "121",
+   "name": "Koraidon ex",
+   "category": "Pokemon",
+   "dex": [
+    1007
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/121"
+  },
+  {
+   "id": "me02.5-122",
+   "set": "me02.5",
+   "number": "122",
+   "name": "Okidogi",
+   "category": "Pokemon",
+   "dex": [
+    1014
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/122"
+  },
+  {
+   "id": "me02.5-123",
+   "set": "me02.5",
+   "number": "123",
+   "name": "Gastly",
+   "category": "Pokemon",
+   "dex": [
+    92
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Saboteri",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/123"
+  },
+  {
+   "id": "me02.5-124",
+   "set": "me02.5",
+   "number": "124",
+   "name": "Haunter",
+   "category": "Pokemon",
+   "dex": [
+    93
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Gastly",
+   "regulationMark": "I",
+   "illustrator": "Rianti Hidayat",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/124"
+  },
+  {
+   "id": "me02.5-125",
+   "set": "me02.5",
+   "number": "125",
+   "name": "Mega Gengar ex",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Haunter",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/125"
+  },
+  {
+   "id": "me02.5-126",
+   "set": "me02.5",
+   "number": "126",
+   "name": "Team Rocket's Murkrow",
+   "category": "Pokemon",
+   "dex": [
+    198
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Mugi Hamada",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/126"
+  },
+  {
+   "id": "me02.5-127",
+   "set": "me02.5",
+   "number": "127",
+   "name": "Team Rocket's Honchkrow",
+   "category": "Pokemon",
+   "dex": [
+    430
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Team Rocket's Murkrow",
+   "regulationMark": "I",
+   "illustrator": "hncl",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/127"
+  },
+  {
+   "id": "me02.5-128",
+   "set": "me02.5",
+   "number": "128",
+   "name": "Poochyena",
+   "category": "Pokemon",
+   "dex": [
+    261
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Miki Tanaka",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/128"
+  },
+  {
+   "id": "me02.5-129",
+   "set": "me02.5",
+   "number": "129",
+   "name": "Mightyena",
+   "category": "Pokemon",
+   "dex": [
+    262
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Poochyena",
+   "regulationMark": "H",
+   "illustrator": "akagi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/129"
+  },
+  {
+   "id": "me02.5-130",
+   "set": "me02.5",
+   "number": "130",
+   "name": "Galarian Zigzagoon",
+   "category": "Pokemon",
+   "dex": [
+    263
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "osare",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/130"
+  },
+  {
+   "id": "me02.5-131",
+   "set": "me02.5",
+   "number": "131",
+   "name": "Galarian Linoone",
+   "category": "Pokemon",
+   "dex": [
+    264
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Galarian Zigzagoon",
+   "regulationMark": "I",
+   "illustrator": "Tomowaka",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/131"
+  },
+  {
+   "id": "me02.5-132",
+   "set": "me02.5",
+   "number": "132",
+   "name": "Galarian Obstagoon",
+   "category": "Pokemon",
+   "dex": [
+    862
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Galarian Linoone",
+   "regulationMark": "I",
+   "illustrator": "Dsuke",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/132"
+  },
+  {
+   "id": "me02.5-133",
+   "set": "me02.5",
+   "number": "133",
+   "name": "Cynthia's Spiritomb",
+   "category": "Pokemon",
+   "dex": [
+    442
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "satoma",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/133"
+  },
+  {
+   "id": "me02.5-134",
+   "set": "me02.5",
+   "number": "134",
+   "name": "Scraggy",
+   "category": "Pokemon",
+   "dex": [
+    559
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/134"
+  },
+  {
+   "id": "me02.5-135",
+   "set": "me02.5",
+   "number": "135",
+   "name": "Mega Scrafty ex",
+   "category": "Pokemon",
+   "dex": [
+    560
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Scraggy",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/135"
+  },
+  {
+   "id": "me02.5-136",
+   "set": "me02.5",
+   "number": "136",
+   "name": "N's Zorua",
+   "category": "Pokemon",
+   "dex": [
+    570
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/136"
+  },
+  {
+   "id": "me02.5-137",
+   "set": "me02.5",
+   "number": "137",
+   "name": "N's Zoroark ex",
+   "category": "Pokemon",
+   "dex": [
+    571
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "N's Zorua",
+   "regulationMark": "I",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/137"
+  },
+  {
+   "id": "me02.5-138",
+   "set": "me02.5",
+   "number": "138",
+   "name": "Vullaby",
+   "category": "Pokemon",
+   "dex": [
+    629
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/138"
+  },
+  {
+   "id": "me02.5-139",
+   "set": "me02.5",
+   "number": "139",
+   "name": "Mandibuzz ex",
+   "category": "Pokemon",
+   "dex": [
+    630
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Vullaby",
+   "regulationMark": "J",
+   "illustrator": "Ultimateinudog",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/139"
+  },
+  {
+   "id": "me02.5-140",
+   "set": "me02.5",
+   "number": "140",
+   "name": "Pangoro",
+   "category": "Pokemon",
+   "dex": [
+    675
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Pancham",
+   "regulationMark": "I",
+   "illustrator": "takashi shiraishi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/140"
+  },
+  {
+   "id": "me02.5-141",
+   "set": "me02.5",
+   "number": "141",
+   "name": "Hoopa",
+   "category": "Pokemon",
+   "dex": [
+    720
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/141"
+  },
+  {
+   "id": "me02.5-142",
+   "set": "me02.5",
+   "number": "142",
+   "name": "Fezandipiti ex",
+   "category": "Pokemon",
+   "dex": [
+    1016
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/142"
+  },
+  {
+   "id": "me02.5-143",
+   "set": "me02.5",
+   "number": "143",
+   "name": "Pecharunt",
+   "category": "Pokemon",
+   "dex": [
+    1025
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "IKEDA Saki",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/143"
+  },
+  {
+   "id": "me02.5-144",
+   "set": "me02.5",
+   "number": "144",
+   "name": "Mawile",
+   "category": "Pokemon",
+   "dex": [
+    303
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "CHORISO",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/144"
+  },
+  {
+   "id": "me02.5-145",
+   "set": "me02.5",
+   "number": "145",
+   "name": "Registeel ex",
+   "category": "Pokemon",
+   "dex": [
+    379
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "toriyufu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/145"
+  },
+  {
+   "id": "me02.5-146",
+   "set": "me02.5",
+   "number": "146",
+   "name": "Pawniard",
+   "category": "Pokemon",
+   "dex": [
+    624
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yuya Oka",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/146"
+  },
+  {
+   "id": "me02.5-147",
+   "set": "me02.5",
+   "number": "147",
+   "name": "Bisharp",
+   "category": "Pokemon",
+   "dex": [
+    625
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Pawniard",
+   "regulationMark": "I",
+   "illustrator": "Scav",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/147"
+  },
+  {
+   "id": "me02.5-148",
+   "set": "me02.5",
+   "number": "148",
+   "name": "Kingambit",
+   "category": "Pokemon",
+   "dex": [
+    983
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Bisharp",
+   "regulationMark": "I",
+   "illustrator": "Teeziro",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/148"
+  },
+  {
+   "id": "me02.5-149",
+   "set": "me02.5",
+   "number": "149",
+   "name": "Togedemaru ex",
+   "category": "Pokemon",
+   "dex": [
+    777
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/149"
+  },
+  {
+   "id": "me02.5-150",
+   "set": "me02.5",
+   "number": "150",
+   "name": "Dratini",
+   "category": "Pokemon",
+   "dex": [
+    147
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "HYOGONOSUKE",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/150"
+  },
+  {
+   "id": "me02.5-151",
+   "set": "me02.5",
+   "number": "151",
+   "name": "Dragonair",
+   "category": "Pokemon",
+   "dex": [
+    148
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Dratini",
+   "regulationMark": "I",
+   "illustrator": "Gemi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/151"
+  },
+  {
+   "id": "me02.5-152",
+   "set": "me02.5",
+   "number": "152",
+   "name": "Mega Dragonite ex",
+   "category": "Pokemon",
+   "dex": [
+    149
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Dragonair",
+   "regulationMark": "I",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/152"
+  },
+  {
+   "id": "me02.5-153",
+   "set": "me02.5",
+   "number": "153",
+   "name": "Rayquaza",
+   "category": "Pokemon",
+   "dex": [
+    384
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "nagimiso",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/153"
+  },
+  {
+   "id": "me02.5-154",
+   "set": "me02.5",
+   "number": "154",
+   "name": "N's Reshiram",
+   "category": "Pokemon",
+   "dex": [
+    643
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "rika",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/154"
+  },
+  {
+   "id": "me02.5-155",
+   "set": "me02.5",
+   "number": "155",
+   "name": "N's Zekrom",
+   "category": "Pokemon",
+   "dex": [
+    644
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "AKIRA EGAWA",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/155"
+  },
+  {
+   "id": "me02.5-156",
+   "set": "me02.5",
+   "number": "156",
+   "name": "Noibat",
+   "category": "Pokemon",
+   "dex": [
+    714
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Eri Kamei",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/156"
+  },
+  {
+   "id": "me02.5-157",
+   "set": "me02.5",
+   "number": "157",
+   "name": "Noivern",
+   "category": "Pokemon",
+   "dex": [
+    715
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Noibat",
+   "regulationMark": "I",
+   "illustrator": "Natsumi Miyanose",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/157"
+  },
+  {
+   "id": "me02.5-158",
+   "set": "me02.5",
+   "number": "158",
+   "name": "Dreepy",
+   "category": "Pokemon",
+   "dex": [
+    885
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Scav",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/158"
+  },
+  {
+   "id": "me02.5-159",
+   "set": "me02.5",
+   "number": "159",
+   "name": "Drakloak",
+   "category": "Pokemon",
+   "dex": [
+    886
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Dreepy",
+   "regulationMark": "H",
+   "illustrator": "cochi8i",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/159"
+  },
+  {
+   "id": "me02.5-160",
+   "set": "me02.5",
+   "number": "160",
+   "name": "Dragapult ex",
+   "category": "Pokemon",
+   "dex": [
+    887
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Drakloak",
+   "regulationMark": "H",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/160"
+  },
+  {
+   "id": "me02.5-161",
+   "set": "me02.5",
+   "number": "161",
+   "name": "Team Rocket's Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Megumi Mizutani",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/161"
+  },
+  {
+   "id": "me02.5-162",
+   "set": "me02.5",
+   "number": "162",
+   "name": "Team Rocket's Kangaskhan ex",
+   "category": "Pokemon",
+   "dex": [
+    115
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/162"
+  },
+  {
+   "id": "me02.5-163",
+   "set": "me02.5",
+   "number": "163",
+   "name": "Larry's Dunsparce",
+   "category": "Pokemon",
+   "dex": [
+    206
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "0313",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/163"
+  },
+  {
+   "id": "me02.5-164",
+   "set": "me02.5",
+   "number": "164",
+   "name": "Larry's Dudunsparce ex",
+   "category": "Pokemon",
+   "dex": [
+    982
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Larry's Dunsparce",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/164"
+  },
+  {
+   "id": "me02.5-165",
+   "set": "me02.5",
+   "number": "165",
+   "name": "Skitty",
+   "category": "Pokemon",
+   "dex": [
+    300
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yoko Hishida",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/165"
+  },
+  {
+   "id": "me02.5-166",
+   "set": "me02.5",
+   "number": "166",
+   "name": "Delcatty",
+   "category": "Pokemon",
+   "dex": [
+    301
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Skitty",
+   "regulationMark": "J",
+   "illustrator": "buchi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/166"
+  },
+  {
+   "id": "me02.5-167",
+   "set": "me02.5",
+   "number": "167",
+   "name": "Zangoose ex",
+   "category": "Pokemon",
+   "dex": [
+    335
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/167"
+  },
+  {
+   "id": "me02.5-168",
+   "set": "me02.5",
+   "number": "168",
+   "name": "Larry's Starly",
+   "category": "Pokemon",
+   "dex": [
+    396
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Natsumi Miyanose",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/168"
+  },
+  {
+   "id": "me02.5-169",
+   "set": "me02.5",
+   "number": "169",
+   "name": "Larry's Staravia",
+   "category": "Pokemon",
+   "dex": [
+    397
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Larry's Starly",
+   "regulationMark": "J",
+   "illustrator": "Fujimoto Gold",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/169"
+  },
+  {
+   "id": "me02.5-170",
+   "set": "me02.5",
+   "number": "170",
+   "name": "Larry's Staraptor",
+   "category": "Pokemon",
+   "dex": [
+    398
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Larry's Staravia",
+   "regulationMark": "J",
+   "illustrator": "Po-Suzuki",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/170"
+  },
+  {
+   "id": "me02.5-171",
+   "set": "me02.5",
+   "number": "171",
+   "name": "Fan Rotom",
+   "category": "Pokemon",
+   "dex": [
+    479
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Toshinao Aoki",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/171"
+  },
+  {
+   "id": "me02.5-172",
+   "set": "me02.5",
+   "number": "172",
+   "name": "Mega Audino ex",
+   "category": "Pokemon",
+   "dex": [
+    531
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/172"
+  },
+  {
+   "id": "me02.5-173",
+   "set": "me02.5",
+   "number": "173",
+   "name": "Larry's Rufflet",
+   "category": "Pokemon",
+   "dex": [
+    627
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "cochi8i",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/173"
+  },
+  {
+   "id": "me02.5-174",
+   "set": "me02.5",
+   "number": "174",
+   "name": "Larry's Braviary",
+   "category": "Pokemon",
+   "dex": [
+    628
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Larry's Rufflet",
+   "regulationMark": "J",
+   "illustrator": "Ryuta Fuse",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/174"
+  },
+  {
+   "id": "me02.5-175",
+   "set": "me02.5",
+   "number": "175",
+   "name": "Larry's Komala",
+   "category": "Pokemon",
+   "dex": [
+    775
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "ryoma uratsuka",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/175"
+  },
+  {
+   "id": "me02.5-176",
+   "set": "me02.5",
+   "number": "176",
+   "name": "Drampa",
+   "category": "Pokemon",
+   "dex": [
+    780
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Scav",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/176"
+  },
+  {
+   "id": "me02.5-177",
+   "set": "me02.5",
+   "number": "177",
+   "name": "Hop's Cramorant",
+   "category": "Pokemon",
+   "dex": [
+    845
+   ],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Saboteri",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/177"
+  },
+  {
+   "id": "me02.5-178",
+   "set": "me02.5",
+   "number": "178",
+   "name": "Terapagos",
+   "category": "Pokemon",
+   "dex": [
+    1024
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "GIDORA",
+   "variants": [
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/178"
+  },
+  {
+   "id": "me02.5-179",
+   "set": "me02.5",
+   "number": "179",
+   "name": "Terapagos ex",
+   "category": "Pokemon",
+   "dex": [
+    1024
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/179"
+  },
+  {
+   "id": "me02.5-180",
+   "set": "me02.5",
+   "number": "180",
+   "name": "Acerola's Mischief",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/180"
+  },
+  {
+   "id": "me02.5-181",
+   "set": "me02.5",
+   "number": "181",
+   "name": "Air Balloon",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Studio Bora Inc.",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/181"
+  },
+  {
+   "id": "me02.5-182",
+   "set": "me02.5",
+   "number": "182",
+   "name": "Anthea & Concordia",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/182"
+  },
+  {
+   "id": "me02.5-183",
+   "set": "me02.5",
+   "number": "183",
+   "name": "Boss's Orders",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "akagi",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/183"
+  },
+  {
+   "id": "me02.5-184",
+   "set": "me02.5",
+   "number": "184",
+   "name": "Buddy-Buddy Poffin",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/184"
+  },
+  {
+   "id": "me02.5-185",
+   "set": "me02.5",
+   "number": "185",
+   "name": "Canari",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Naoki Saito",
+   "variants": [
+    "normal",
+    "reverse",
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/185"
+  },
+  {
+   "id": "me02.5-186",
+   "set": "me02.5",
+   "number": "186",
+   "name": "Counter Gain",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/186"
+  },
+  {
+   "id": "me02.5-187",
+   "set": "me02.5",
+   "number": "187",
+   "name": "Fighting Gong",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/187"
+  },
+  {
+   "id": "me02.5-188",
+   "set": "me02.5",
+   "number": "188",
+   "name": "Forest of Vitality",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/188"
+  },
+  {
+   "id": "me02.5-189",
+   "set": "me02.5",
+   "number": "189",
+   "name": "Glass Trumpet",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/189"
+  },
+  {
+   "id": "me02.5-190",
+   "set": "me02.5",
+   "number": "190",
+   "name": "Iris's Fighting Spirit",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "yuu",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/190"
+  },
+  {
+   "id": "me02.5-191",
+   "set": "me02.5",
+   "number": "191",
+   "name": "Light Ball",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Studio Bora Inc.",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/191"
+  },
+  {
+   "id": "me02.5-192",
+   "set": "me02.5",
+   "number": "192",
+   "name": "Lillie's Determination",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Atsushi Furusawa",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/192"
+  },
+  {
+   "id": "me02.5-193",
+   "set": "me02.5",
+   "number": "193",
+   "name": "Mega Signal",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "inose yukie",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/193"
+  },
+  {
+   "id": "me02.5-194",
+   "set": "me02.5",
+   "number": "194",
+   "name": "Mystery Garden",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/194"
+  },
+  {
+   "id": "me02.5-195",
+   "set": "me02.5",
+   "number": "195",
+   "name": "N's PP Up",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/195"
+  },
+  {
+   "id": "me02.5-196",
+   "set": "me02.5",
+   "number": "196",
+   "name": "Night Stretcher",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/196"
+  },
+  {
+   "id": "me02.5-197",
+   "set": "me02.5",
+   "number": "197",
+   "name": "Nighttime Mine",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Takashi Yamaguchi",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/197"
+  },
+  {
+   "id": "me02.5-198",
+   "set": "me02.5",
+   "number": "198",
+   "name": "Poké Pad",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Studio Bora Inc.",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/198"
+  },
+  {
+   "id": "me02.5-199",
+   "set": "me02.5",
+   "number": "199",
+   "name": "Premium Power Pro",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/199"
+  },
+  {
+   "id": "me02.5-200",
+   "set": "me02.5",
+   "number": "200",
+   "name": "Surfer",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/200"
+  },
+  {
+   "id": "me02.5-201",
+   "set": "me02.5",
+   "number": "201",
+   "name": "Team Rocket's Archer",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/201"
+  },
+  {
+   "id": "me02.5-202",
+   "set": "me02.5",
+   "number": "202",
+   "name": "Team Rocket's Ariana",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "hncl",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/202"
+  },
+  {
+   "id": "me02.5-203",
+   "set": "me02.5",
+   "number": "203",
+   "name": "Team Rocket's Factory",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "imoniii",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/203"
+  },
+  {
+   "id": "me02.5-204",
+   "set": "me02.5",
+   "number": "204",
+   "name": "Team Rocket's Giovanni",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "DOM",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/204"
+  },
+  {
+   "id": "me02.5-205",
+   "set": "me02.5",
+   "number": "205",
+   "name": "Team Rocket's Great Ball",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/205"
+  },
+  {
+   "id": "me02.5-206",
+   "set": "me02.5",
+   "number": "206",
+   "name": "Team Rocket's Hypnotizer",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/206"
+  },
+  {
+   "id": "me02.5-207",
+   "set": "me02.5",
+   "number": "207",
+   "name": "Team Rocket's Petrel",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "GOSSAN",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/207"
+  },
+  {
+   "id": "me02.5-208",
+   "set": "me02.5",
+   "number": "208",
+   "name": "Team Rocket's Proton",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Naoki Saito",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/208"
+  },
+  {
+   "id": "me02.5-209",
+   "set": "me02.5",
+   "number": "209",
+   "name": "Team Rocket's Transceiver",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "inose yukie",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/209"
+  },
+  {
+   "id": "me02.5-210",
+   "set": "me02.5",
+   "number": "210",
+   "name": "Team Rocket's Watchtower",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/210"
+  },
+  {
+   "id": "me02.5-211",
+   "set": "me02.5",
+   "number": "211",
+   "name": "Thick Scale",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/211"
+  },
+  {
+   "id": "me02.5-212",
+   "set": "me02.5",
+   "number": "212",
+   "name": "Tool Scrapper",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Studio Bora Inc.",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/212"
+  },
+  {
+   "id": "me02.5-213",
+   "set": "me02.5",
+   "number": "213",
+   "name": "Ultra Ball",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Ayaka Yoshida",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/213"
+  },
+  {
+   "id": "me02.5-214",
+   "set": "me02.5",
+   "number": "214",
+   "name": "Urbain",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Teeziro",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/214"
+  },
+  {
+   "id": "me02.5-215",
+   "set": "me02.5",
+   "number": "215",
+   "name": "Waitress",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Cona Nitanda",
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/215"
+  },
+  {
+   "id": "me02.5-216",
+   "set": "me02.5",
+   "number": "216",
+   "name": "Prism Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/216"
+  },
+  {
+   "id": "me02.5-217",
+   "set": "me02.5",
+   "number": "217",
+   "name": "Team Rocket's Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/217"
+  },
+  {
+   "id": "me02.5-218",
+   "set": "me02.5",
+   "number": "218",
+   "name": "Erika's Tangela",
+   "category": "Pokemon",
+   "dex": [
+    114
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "buchi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/218"
+  },
+  {
+   "id": "me02.5-219",
+   "set": "me02.5",
+   "number": "219",
+   "name": "Beautifly",
+   "category": "Pokemon",
+   "dex": [
+    267
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Silcoon",
+   "regulationMark": "I",
+   "illustrator": "Mori Yuu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/219"
+  },
+  {
+   "id": "me02.5-220",
+   "set": "me02.5",
+   "number": "220",
+   "name": "Dustox",
+   "category": "Pokemon",
+   "dex": [
+    269
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Cascoon",
+   "regulationMark": "I",
+   "illustrator": "IKEDA Saki",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/220"
+  },
+  {
+   "id": "me02.5-221",
+   "set": "me02.5",
+   "number": "221",
+   "name": "Budew",
+   "category": "Pokemon",
+   "dex": [
+    406
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Yoko Hishida",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/221"
+  },
+  {
+   "id": "me02.5-222",
+   "set": "me02.5",
+   "number": "222",
+   "name": "Ethan's Magcargo",
+   "category": "Pokemon",
+   "dex": [
+    219
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Ethan's Slugma",
+   "regulationMark": "I",
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/222"
+  },
+  {
+   "id": "me02.5-223",
+   "set": "me02.5",
+   "number": "223",
+   "name": "Numel",
+   "category": "Pokemon",
+   "dex": [
+    322
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yoshimi Miyoshi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/223"
+  },
+  {
+   "id": "me02.5-224",
+   "set": "me02.5",
+   "number": "224",
+   "name": "Salazzle",
+   "category": "Pokemon",
+   "dex": [
+    758
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Salandit",
+   "regulationMark": "H",
+   "illustrator": "Dsuke",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/224"
+  },
+  {
+   "id": "me02.5-225",
+   "set": "me02.5",
+   "number": "225",
+   "name": "Scorbunny",
+   "category": "Pokemon",
+   "dex": [
+    813
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/225"
+  },
+  {
+   "id": "me02.5-226",
+   "set": "me02.5",
+   "number": "226",
+   "name": "Psyduck",
+   "category": "Pokemon",
+   "dex": [
+    54
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "REND",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/226"
+  },
+  {
+   "id": "me02.5-227",
+   "set": "me02.5",
+   "number": "227",
+   "name": "Snorunt",
+   "category": "Pokemon",
+   "dex": [
+    361
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "June",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/227"
+  },
+  {
+   "id": "me02.5-228",
+   "set": "me02.5",
+   "number": "228",
+   "name": "Weavile",
+   "category": "Pokemon",
+   "dex": [
+    461
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Sneasel",
+   "regulationMark": "H",
+   "illustrator": "Uninori",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/228"
+  },
+  {
+   "id": "me02.5-229",
+   "set": "me02.5",
+   "number": "229",
+   "name": "Heliolisk",
+   "category": "Pokemon",
+   "dex": [
+    695
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Helioptile",
+   "regulationMark": "I",
+   "illustrator": "Takeshi Nakamura",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/229"
+  },
+  {
+   "id": "me02.5-230",
+   "set": "me02.5",
+   "number": "230",
+   "name": "Vikavolt",
+   "category": "Pokemon",
+   "dex": [
+    738
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Charjabug",
+   "regulationMark": "H",
+   "illustrator": "Tonji Matsuno",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/230"
+  },
+  {
+   "id": "me02.5-231",
+   "set": "me02.5",
+   "number": "231",
+   "name": "Iono's Wattrel",
+   "category": "Pokemon",
+   "dex": [
+    940
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "mingo",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/231"
+  },
+  {
+   "id": "me02.5-232",
+   "set": "me02.5",
+   "number": "232",
+   "name": "Marill",
+   "category": "Pokemon",
+   "dex": [
+    183
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Rond",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/232"
+  },
+  {
+   "id": "me02.5-233",
+   "set": "me02.5",
+   "number": "233",
+   "name": "Misdreavus",
+   "category": "Pokemon",
+   "dex": [
+    200
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "mashu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/233"
+  },
+  {
+   "id": "me02.5-234",
+   "set": "me02.5",
+   "number": "234",
+   "name": "Banette",
+   "category": "Pokemon",
+   "dex": [
+    354
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Shuppet",
+   "regulationMark": "I",
+   "illustrator": "YASHIRO Nanaco",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/234"
+  },
+  {
+   "id": "me02.5-235",
+   "set": "me02.5",
+   "number": "235",
+   "name": "Togekiss",
+   "category": "Pokemon",
+   "dex": [
+    468
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Togetic",
+   "regulationMark": "H",
+   "illustrator": "satoma",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/235"
+  },
+  {
+   "id": "me02.5-236",
+   "set": "me02.5",
+   "number": "236",
+   "name": "Slurpuff",
+   "category": "Pokemon",
+   "dex": [
+    685
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Swirlix",
+   "regulationMark": "J",
+   "illustrator": "Yoshimoto Yoshimon",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/236"
+  },
+  {
+   "id": "me02.5-237",
+   "set": "me02.5",
+   "number": "237",
+   "name": "Hop's Trevenant",
+   "category": "Pokemon",
+   "dex": [
+    709
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Hop's Phantump",
+   "regulationMark": "I",
+   "illustrator": "Tomowaka",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/237"
+  },
+  {
+   "id": "me02.5-238",
+   "set": "me02.5",
+   "number": "238",
+   "name": "Team Rocket's Mimikyu",
+   "category": "Pokemon",
+   "dex": [
+    778
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "GOSSAN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/238"
+  },
+  {
+   "id": "me02.5-239",
+   "set": "me02.5",
+   "number": "239",
+   "name": "Team Rocket's Dugtrio",
+   "category": "Pokemon",
+   "dex": [
+    51
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Team Rocket's Diglett",
+   "regulationMark": "I",
+   "illustrator": "Whisker",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/239"
+  },
+  {
+   "id": "me02.5-240",
+   "set": "me02.5",
+   "number": "240",
+   "name": "Hitmontop",
+   "category": "Pokemon",
+   "dex": [
+    237
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "osare",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/240"
+  },
+  {
+   "id": "me02.5-241",
+   "set": "me02.5",
+   "number": "241",
+   "name": "Medicham",
+   "category": "Pokemon",
+   "dex": [
+    308
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Meditite",
+   "regulationMark": "I",
+   "illustrator": "KEIICHIRO ITO",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/241"
+  },
+  {
+   "id": "me02.5-242",
+   "set": "me02.5",
+   "number": "242",
+   "name": "Carbink",
+   "category": "Pokemon",
+   "dex": [
+    703
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "sui",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/242"
+  },
+  {
+   "id": "me02.5-243",
+   "set": "me02.5",
+   "number": "243",
+   "name": "Mightyena",
+   "category": "Pokemon",
+   "dex": [
+    262
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Poochyena",
+   "regulationMark": "H",
+   "illustrator": "Yano Keiji",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/243"
+  },
+  {
+   "id": "me02.5-244",
+   "set": "me02.5",
+   "number": "244",
+   "name": "Cynthia's Spiritomb",
+   "category": "Pokemon",
+   "dex": [
+    442
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "hncl",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/244"
+  },
+  {
+   "id": "me02.5-245",
+   "set": "me02.5",
+   "number": "245",
+   "name": "Galarian Obstagoon",
+   "category": "Pokemon",
+   "dex": [
+    862
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Galarian Linoone",
+   "regulationMark": "I",
+   "illustrator": "Krgc",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/245"
+  },
+  {
+   "id": "me02.5-246",
+   "set": "me02.5",
+   "number": "246",
+   "name": "Mawile",
+   "category": "Pokemon",
+   "dex": [
+    303
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "sowsow",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/246"
+  },
+  {
+   "id": "me02.5-247",
+   "set": "me02.5",
+   "number": "247",
+   "name": "Dreepy",
+   "category": "Pokemon",
+   "dex": [
+    885
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Jerky",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/247"
+  },
+  {
+   "id": "me02.5-248",
+   "set": "me02.5",
+   "number": "248",
+   "name": "Drakloak",
+   "category": "Pokemon",
+   "dex": [
+    886
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Dreepy",
+   "regulationMark": "H",
+   "illustrator": "Jerky",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/248"
+  },
+  {
+   "id": "me02.5-249",
+   "set": "me02.5",
+   "number": "249",
+   "name": "Larry's Staraptor",
+   "category": "Pokemon",
+   "dex": [
+    398
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Larry's Staravia",
+   "regulationMark": "J",
+   "illustrator": "kantaro",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/249"
+  },
+  {
+   "id": "me02.5-250",
+   "set": "me02.5",
+   "number": "250",
+   "name": "Fan Rotom",
+   "category": "Pokemon",
+   "dex": [
+    479
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Yukihiro Tada",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/250"
+  },
+  {
+   "id": "me02.5-251",
+   "set": "me02.5",
+   "number": "251",
+   "name": "Sprigatito ex",
+   "category": "Pokemon",
+   "dex": [
+    906
+   ],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/251"
+  },
+  {
+   "id": "me02.5-252",
+   "set": "me02.5",
+   "number": "252",
+   "name": "Stunfisk ex",
+   "category": "Pokemon",
+   "dex": [
+    618
+   ],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/252"
+  },
+  {
+   "id": "me02.5-253",
+   "set": "me02.5",
+   "number": "253",
+   "name": "Mega Audino ex",
+   "category": "Pokemon",
+   "dex": [
+    531
+   ],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/253"
+  },
+  {
+   "id": "me02.5-254",
+   "set": "me02.5",
+   "number": "254",
+   "name": "Anthea & Concordia",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/254"
+  },
+  {
+   "id": "me02.5-255",
+   "set": "me02.5",
+   "number": "255",
+   "name": "Black Belt's Training",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "GOSSAN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/255"
+  },
+  {
+   "id": "me02.5-256",
+   "set": "me02.5",
+   "number": "256",
+   "name": "Boss's Orders",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "akagi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/256"
+  },
+  {
+   "id": "me02.5-257",
+   "set": "me02.5",
+   "number": "257",
+   "name": "Canari",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Naoki Saito",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/257"
+  },
+  {
+   "id": "me02.5-258",
+   "set": "me02.5",
+   "number": "258",
+   "name": "Cheren",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "REND",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/258"
+  },
+  {
+   "id": "me02.5-259",
+   "set": "me02.5",
+   "number": "259",
+   "name": "Counter Gain",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/259"
+  },
+  {
+   "id": "me02.5-260",
+   "set": "me02.5",
+   "number": "260",
+   "name": "Glass Trumpet",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/260"
+  },
+  {
+   "id": "me02.5-261",
+   "set": "me02.5",
+   "number": "261",
+   "name": "Jamming Tower",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/261"
+  },
+  {
+   "id": "me02.5-262",
+   "set": "me02.5",
+   "number": "262",
+   "name": "N's PP Up",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/262"
+  },
+  {
+   "id": "me02.5-263",
+   "set": "me02.5",
+   "number": "263",
+   "name": "Team Rocket's Transceiver",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "inose yukie",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/263"
+  },
+  {
+   "id": "me02.5-264",
+   "set": "me02.5",
+   "number": "264",
+   "name": "Ultra Ball",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Studio Bora Inc.",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/264"
+  },
+  {
+   "id": "me02.5-265",
+   "set": "me02.5",
+   "number": "265",
+   "name": "Mega Froslass ex",
+   "category": "Pokemon",
+   "dex": [
+    478
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Snorunt",
+   "regulationMark": "I",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/265"
+  },
+  {
+   "id": "me02.5-266",
+   "set": "me02.5",
+   "number": "266",
+   "name": "Mega Eelektross ex",
+   "category": "Pokemon",
+   "dex": [
+    604
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Eelektrik",
+   "regulationMark": "I",
+   "illustrator": "DOM",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/266"
+  },
+  {
+   "id": "me02.5-267",
+   "set": "me02.5",
+   "number": "267",
+   "name": "Mega Diancie ex",
+   "category": "Pokemon",
+   "dex": [
+    719
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "DOM",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/267"
+  },
+  {
+   "id": "me02.5-268",
+   "set": "me02.5",
+   "number": "268",
+   "name": "Mega Hawlucha ex",
+   "category": "Pokemon",
+   "dex": [
+    701
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/268"
+  },
+  {
+   "id": "me02.5-269",
+   "set": "me02.5",
+   "number": "269",
+   "name": "Mega Gengar ex",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Haunter",
+   "regulationMark": "I",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/269"
+  },
+  {
+   "id": "me02.5-270",
+   "set": "me02.5",
+   "number": "270",
+   "name": "Mega Scrafty ex",
+   "category": "Pokemon",
+   "dex": [
+    560
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Scraggy",
+   "regulationMark": "I",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/270"
+  },
+  {
+   "id": "me02.5-271",
+   "set": "me02.5",
+   "number": "271",
+   "name": "Mega Dragonite ex",
+   "category": "Pokemon",
+   "dex": [
+    149
+   ],
+   "rarity": "Mega Attack Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Dragonair",
+   "regulationMark": "I",
+   "illustrator": "DOM",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/271"
+  },
+  {
+   "id": "me02.5-272",
+   "set": "me02.5",
+   "number": "272",
+   "name": "Mega Meganium ex",
+   "category": "Pokemon",
+   "dex": [
+    154
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Bayleef",
+   "regulationMark": "J",
+   "illustrator": "Tika Matsuno",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/272"
+  },
+  {
+   "id": "me02.5-273",
+   "set": "me02.5",
+   "number": "273",
+   "name": "Mega Emboar ex",
+   "category": "Pokemon",
+   "dex": [
+    500
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Pignite",
+   "regulationMark": "J",
+   "illustrator": "nagimiso",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/273"
+  },
+  {
+   "id": "me02.5-274",
+   "set": "me02.5",
+   "number": "274",
+   "name": "Mega Feraligatr ex",
+   "category": "Pokemon",
+   "dex": [
+    160
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Croconaw",
+   "regulationMark": "J",
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/274"
+  },
+  {
+   "id": "me02.5-275",
+   "set": "me02.5",
+   "number": "275",
+   "name": "Mega Froslass ex",
+   "category": "Pokemon",
+   "dex": [
+    478
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Snorunt",
+   "regulationMark": "I",
+   "illustrator": "Teeziro",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/275"
+  },
+  {
+   "id": "me02.5-276",
+   "set": "me02.5",
+   "number": "276",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "booota",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/276"
+  },
+  {
+   "id": "me02.5-277",
+   "set": "me02.5",
+   "number": "277",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "James Turner",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/277"
+  },
+  {
+   "id": "me02.5-278",
+   "set": "me02.5",
+   "number": "278",
+   "name": "Mega Eelektross ex",
+   "category": "Pokemon",
+   "dex": [
+    604
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Eelektrik",
+   "regulationMark": "I",
+   "illustrator": "akagi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/278"
+  },
+  {
+   "id": "me02.5-279",
+   "set": "me02.5",
+   "number": "279",
+   "name": "Iono's Bellibolt ex",
+   "category": "Pokemon",
+   "dex": [
+    939
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Iono's Tadbulb",
+   "regulationMark": "I",
+   "illustrator": "Akira Komayama",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/279"
+  },
+  {
+   "id": "me02.5-280",
+   "set": "me02.5",
+   "number": "280",
+   "name": "Lillie's Clefairy ex",
+   "category": "Pokemon",
+   "dex": [
+    35
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Naoki Saito",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/280"
+  },
+  {
+   "id": "me02.5-281",
+   "set": "me02.5",
+   "number": "281",
+   "name": "Team Rocket's Mewtwo ex",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/281"
+  },
+  {
+   "id": "me02.5-282",
+   "set": "me02.5",
+   "number": "282",
+   "name": "Mega Diancie ex",
+   "category": "Pokemon",
+   "dex": [
+    719
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Narano",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/282"
+  },
+  {
+   "id": "me02.5-283",
+   "set": "me02.5",
+   "number": "283",
+   "name": "Mega Hawlucha ex",
+   "category": "Pokemon",
+   "dex": [
+    701
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "AKIRA EGAWA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/283"
+  },
+  {
+   "id": "me02.5-284",
+   "set": "me02.5",
+   "number": "284",
+   "name": "Mega Gengar ex",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Haunter",
+   "regulationMark": "I",
+   "illustrator": "danciao",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/284"
+  },
+  {
+   "id": "me02.5-285",
+   "set": "me02.5",
+   "number": "285",
+   "name": "Mega Scrafty ex",
+   "category": "Pokemon",
+   "dex": [
+    560
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Scraggy",
+   "regulationMark": "I",
+   "illustrator": "nagimiso",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/285"
+  },
+  {
+   "id": "me02.5-286",
+   "set": "me02.5",
+   "number": "286",
+   "name": "N's Zoroark ex",
+   "category": "Pokemon",
+   "dex": [
+    571
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "N's Zorua",
+   "regulationMark": "I",
+   "illustrator": "Raita Kazama",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/286"
+  },
+  {
+   "id": "me02.5-287",
+   "set": "me02.5",
+   "number": "287",
+   "name": "Marnie's Grimmsnarl ex",
+   "category": "Pokemon",
+   "dex": [
+    861
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Marnie's Morgrem",
+   "regulationMark": "I",
+   "illustrator": "Ligton",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/287"
+  },
+  {
+   "id": "me02.5-288",
+   "set": "me02.5",
+   "number": "288",
+   "name": "Fezandipiti ex",
+   "category": "Pokemon",
+   "dex": [
+    1016
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "SIE NANAHARA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/288"
+  },
+  {
+   "id": "me02.5-289",
+   "set": "me02.5",
+   "number": "289",
+   "name": "Steven's Metagross ex",
+   "category": "Pokemon",
+   "dex": [
+    376
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Steven's Metang",
+   "regulationMark": "I",
+   "illustrator": "chibi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/289"
+  },
+  {
+   "id": "me02.5-290",
+   "set": "me02.5",
+   "number": "290",
+   "name": "Mega Dragonite ex",
+   "category": "Pokemon",
+   "dex": [
+    149
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Dragonair",
+   "regulationMark": "I",
+   "illustrator": "DOM",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/290"
+  },
+  {
+   "id": "me02.5-291",
+   "set": "me02.5",
+   "number": "291",
+   "name": "Canari",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "kantaro",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/291"
+  },
+  {
+   "id": "me02.5-292",
+   "set": "me02.5",
+   "number": "292",
+   "name": "Iris's Fighting Spirit",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Kuroimori",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/292"
+  },
+  {
+   "id": "me02.5-293",
+   "set": "me02.5",
+   "number": "293",
+   "name": "Surfer",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "H",
+   "illustrator": "OKUBO",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/293"
+  },
+  {
+   "id": "me02.5-294",
+   "set": "me02.5",
+   "number": "294",
+   "name": "Mega Charizard Y ex",
+   "category": "Pokemon",
+   "dex": [
+    6
+   ],
+   "rarity": "Mega Hyper Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Charmeleon",
+   "regulationMark": "J",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/294"
+  },
+  {
+   "id": "me02.5-295",
+   "set": "me02.5",
+   "number": "295",
+   "name": "Mega Dragonite ex",
+   "category": "Pokemon",
+   "dex": [
+    149
+   ],
+   "rarity": "Mega Hyper Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Dragonair",
+   "regulationMark": "I",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/me02.5/295"
+  }
+ ]
+}

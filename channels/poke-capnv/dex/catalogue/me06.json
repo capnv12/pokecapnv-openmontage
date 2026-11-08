@@ -1,0 +1,2838 @@
+{
+ "set": "me06",
+ "name": "Delta Reign",
+ "abbreviation": "DLR",
+ "releaseDate": "2026-11-06",
+ "cardCount": {
+  "firstEd": 0,
+  "holo": 0,
+  "normal": 0,
+  "official": 103,
+  "reverse": 0,
+  "total": 141
+ },
+ "pulled": "2026-11-08",
+ "source": "https://api.tcgdex.net/v2/en/sets/me06",
+ "cards": [
+  {
+   "id": "me06-001",
+   "set": "me06",
+   "number": "001",
+   "name": "Heracross",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Satoshi Ito",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-002",
+   "set": "me06",
+   "number": "002",
+   "name": "Surskit",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Gemi",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-003",
+   "set": "me06",
+   "number": "003",
+   "name": "Masquerain",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-004",
+   "set": "me06",
+   "number": "004",
+   "name": "Cacnea",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Minato",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-005",
+   "set": "me06",
+   "number": "005",
+   "name": "Cacturne",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "okayamatakatoshi",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-006",
+   "set": "me06",
+   "number": "006",
+   "name": "Combee",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "nisimono",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-007",
+   "set": "me06",
+   "number": "007",
+   "name": "Vespiquen",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Masako Tomii",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-008",
+   "set": "me06",
+   "number": "008",
+   "name": "Shaymin",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "HYOGONOSUKE",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-009",
+   "set": "me06",
+   "number": "009",
+   "name": "Virizion",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "AKIRA EGAWA",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-010",
+   "set": "me06",
+   "number": "010",
+   "name": "Wimpod",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Jerky",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-011",
+   "set": "me06",
+   "number": "011",
+   "name": "Mega Golisopod ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-012",
+   "set": "me06",
+   "number": "012",
+   "name": "Sprigatito",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Makura Tami",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-013",
+   "set": "me06",
+   "number": "013",
+   "name": "Floragato",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-014",
+   "set": "me06",
+   "number": "014",
+   "name": "Meowscarada ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-015",
+   "set": "me06",
+   "number": "015",
+   "name": "Smoliv",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Kanami Ogata",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-016",
+   "set": "me06",
+   "number": "016",
+   "name": "Dolliv",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Eri Kamei",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-017",
+   "set": "me06",
+   "number": "017",
+   "name": "Arboliva",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Aliya Chen",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-018",
+   "set": "me06",
+   "number": "018",
+   "name": "Growlithe",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Teeziro",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-019",
+   "set": "me06",
+   "number": "019",
+   "name": "Arcanine",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Felicia Chen",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-020",
+   "set": "me06",
+   "number": "020",
+   "name": "Magmar",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "GOSSAN",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-021",
+   "set": "me06",
+   "number": "021",
+   "name": "Magmortar",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ryuta Fuse",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-022",
+   "set": "me06",
+   "number": "022",
+   "name": "Torkoal",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Tonji Matsuno",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-023",
+   "set": "me06",
+   "number": "023",
+   "name": "Heat Rotom ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-024",
+   "set": "me06",
+   "number": "024",
+   "name": "Heatmor",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Takeshi Nakamura",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-025",
+   "set": "me06",
+   "number": "025",
+   "name": "Mantine",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "kodama",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-026",
+   "set": "me06",
+   "number": "026",
+   "name": "Kyogre",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Anderson",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-027",
+   "set": "me06",
+   "number": "027",
+   "name": "Frillish",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Mousho",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-028",
+   "set": "me06",
+   "number": "028",
+   "name": "Jellicent",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Nurikabe",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-029",
+   "set": "me06",
+   "number": "029",
+   "name": "Wishiwashi ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-030",
+   "set": "me06",
+   "number": "030",
+   "name": "Electabuzz",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "kurumitsu",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-031",
+   "set": "me06",
+   "number": "031",
+   "name": "Electivire",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "hncl",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-032",
+   "set": "me06",
+   "number": "032",
+   "name": "Jolteon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "hncl",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-033",
+   "set": "me06",
+   "number": "033",
+   "name": "Raikou ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "aky CG Works",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-034",
+   "set": "me06",
+   "number": "034",
+   "name": "Rotom",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Yukiko Baba",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-035",
+   "set": "me06",
+   "number": "035",
+   "name": "Thundurus",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Takumi Wada",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-036",
+   "set": "me06",
+   "number": "036",
+   "name": "Pincurchin",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "OKUBO",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-037",
+   "set": "me06",
+   "number": "037",
+   "name": "Pawmi",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "TOMATO MARKET",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-038",
+   "set": "me06",
+   "number": "038",
+   "name": "Pawmo",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Susumu Maeya",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-039",
+   "set": "me06",
+   "number": "039",
+   "name": "Pawmot",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "kirisAki",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-040",
+   "set": "me06",
+   "number": "040",
+   "name": "Wattrel",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Yukihiro Tada",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-041",
+   "set": "me06",
+   "number": "041",
+   "name": "Kilowattrel",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "OKACHEKE",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-042",
+   "set": "me06",
+   "number": "042",
+   "name": "Miraidon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Atsushi Furusawa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-043",
+   "set": "me06",
+   "number": "043",
+   "name": "Drowzee",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Hachinana",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-044",
+   "set": "me06",
+   "number": "044",
+   "name": "Hypno",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Yuta Kawazu",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-045",
+   "set": "me06",
+   "number": "045",
+   "name": "Giratina",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "toriyufu",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-046",
+   "set": "me06",
+   "number": "046",
+   "name": "Golett",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-047",
+   "set": "me06",
+   "number": "047",
+   "name": "Mega Golurk ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-048",
+   "set": "me06",
+   "number": "048",
+   "name": "Enamorus",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-049",
+   "set": "me06",
+   "number": "049",
+   "name": "Sandshrew",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Izucch",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-050",
+   "set": "me06",
+   "number": "050",
+   "name": "Sandslash",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "aoki",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-051",
+   "set": "me06",
+   "number": "051",
+   "name": "Onix",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Kedamahadaitai Yawarakai",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-052",
+   "set": "me06",
+   "number": "052",
+   "name": "Steelix",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shin Nagasawa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-053",
+   "set": "me06",
+   "number": "053",
+   "name": "Groudon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-054",
+   "set": "me06",
+   "number": "054",
+   "name": "Landorus",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Oku",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-055",
+   "set": "me06",
+   "number": "055",
+   "name": "Nidoran♀",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "tayu",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-056",
+   "set": "me06",
+   "number": "056",
+   "name": "Nidorina",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-057",
+   "set": "me06",
+   "number": "057",
+   "name": "Nidoqueen",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Aliya Chen",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-058",
+   "set": "me06",
+   "number": "058",
+   "name": "Spinarak",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Apios",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-059",
+   "set": "me06",
+   "number": "059",
+   "name": "Ariados",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "UKUMO uiti",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-060",
+   "set": "me06",
+   "number": "060",
+   "name": "Sableye",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shinji Kanda",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-061",
+   "set": "me06",
+   "number": "061",
+   "name": "Carvanha",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Julie Hang",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-062",
+   "set": "me06",
+   "number": "062",
+   "name": "Sharpedo",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-063",
+   "set": "me06",
+   "number": "063",
+   "name": "Darkrai",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-064",
+   "set": "me06",
+   "number": "064",
+   "name": "Purrloin",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Hachinana",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-065",
+   "set": "me06",
+   "number": "065",
+   "name": "Liepard",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-066",
+   "set": "me06",
+   "number": "066",
+   "name": "Zorua",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "HYOGONOSUKE",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-067",
+   "set": "me06",
+   "number": "067",
+   "name": "Zoroark ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Keisuke Azuma",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-068",
+   "set": "me06",
+   "number": "068",
+   "name": "Inkay",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "kawayoo",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-069",
+   "set": "me06",
+   "number": "069",
+   "name": "Mega Malamar ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-070",
+   "set": "me06",
+   "number": "070",
+   "name": "Morpeko",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "kurumitsu",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-071",
+   "set": "me06",
+   "number": "071",
+   "name": "Zarude",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-072",
+   "set": "me06",
+   "number": "072",
+   "name": "Druddigon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "AKIRA EGAWA",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-073",
+   "set": "me06",
+   "number": "073",
+   "name": "Jangmo-o",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "June",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-074",
+   "set": "me06",
+   "number": "074",
+   "name": "Hakamo-o",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Scav",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-075",
+   "set": "me06",
+   "number": "075",
+   "name": "Kommo-o",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-076",
+   "set": "me06",
+   "number": "076",
+   "name": "Cyclizar",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Saboteri",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-077",
+   "set": "me06",
+   "number": "077",
+   "name": "Tauros",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Uta",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-078",
+   "set": "me06",
+   "number": "078",
+   "name": "Eevee",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "UKUMO uiti",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-079",
+   "set": "me06",
+   "number": "079",
+   "name": "Delibird",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "satoma",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-080",
+   "set": "me06",
+   "number": "080",
+   "name": "Azurill",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "TOMATO MARKET",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-081",
+   "set": "me06",
+   "number": "081",
+   "name": "Swablu",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shiburingaru",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-082",
+   "set": "me06",
+   "number": "082",
+   "name": "Altaria",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Atsushi Furusawa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-083",
+   "set": "me06",
+   "number": "083",
+   "name": "Kecleon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Akira Komayama",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-084",
+   "set": "me06",
+   "number": "084",
+   "name": "Mega Rayquaza ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "takuyoa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-085",
+   "set": "me06",
+   "number": "085",
+   "name": "Tornadus",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Uta",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-086",
+   "set": "me06",
+   "number": "086",
+   "name": "Fletchling",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "takashi shiraishi",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-087",
+   "set": "me06",
+   "number": "087",
+   "name": "Fletchinder",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-088",
+   "set": "me06",
+   "number": "088",
+   "name": "Talonflame ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-089",
+   "set": "me06",
+   "number": "089",
+   "name": "Aarune",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-090",
+   "set": "me06",
+   "number": "090",
+   "name": "Adventure Lantern",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "inose yukie",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-091",
+   "set": "me06",
+   "number": "091",
+   "name": "Custom Vest",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-092",
+   "set": "me06",
+   "number": "092",
+   "name": "Emcee's Hype",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "DOM",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-093",
+   "set": "me06",
+   "number": "093",
+   "name": "Grisham",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-094",
+   "set": "me06",
+   "number": "094",
+   "name": "Legendary Pyroduct",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "akagi",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-095",
+   "set": "me06",
+   "number": "095",
+   "name": "Legendary Pyroduct",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "akagi",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-096",
+   "set": "me06",
+   "number": "096",
+   "name": "Legendary Summit",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "nagimiso",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-097",
+   "set": "me06",
+   "number": "097",
+   "name": "Legendary Summit",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "nagimiso",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-098",
+   "set": "me06",
+   "number": "098",
+   "name": "Legendary Trench",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "danciao",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-099",
+   "set": "me06",
+   "number": "099",
+   "name": "Legendary Trench",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "danciao",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-100",
+   "set": "me06",
+   "number": "100",
+   "name": "Mega Rayquaza Cap",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-101",
+   "set": "me06",
+   "number": "101",
+   "name": "Tasty Rice Ball",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-102",
+   "set": "me06",
+   "number": "102",
+   "name": "Tate & Liza's Training",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-103",
+   "set": "me06",
+   "number": "103",
+   "name": "Zinnia's Trust",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Uncommon",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "GIDORA",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-104",
+   "set": "me06",
+   "number": "104",
+   "name": "Masquerain",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "REND",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-105",
+   "set": "me06",
+   "number": "105",
+   "name": "Sprigatito",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-106",
+   "set": "me06",
+   "number": "106",
+   "name": "Growlithe",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Yoshimoto Yoshimon",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-107",
+   "set": "me06",
+   "number": "107",
+   "name": "Magmortar",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-108",
+   "set": "me06",
+   "number": "108",
+   "name": "Electivire",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Rianti Hidayat",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-109",
+   "set": "me06",
+   "number": "109",
+   "name": "Pincurchin",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Tetsu Kayama",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-110",
+   "set": "me06",
+   "number": "110",
+   "name": "Enamorus",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Taira Akitsu",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-111",
+   "set": "me06",
+   "number": "111",
+   "name": "Groudon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ryota Murayama",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-112",
+   "set": "me06",
+   "number": "112",
+   "name": "Zorua",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "GOSSAN",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-113",
+   "set": "me06",
+   "number": "113",
+   "name": "Inkay",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Rond",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-114",
+   "set": "me06",
+   "number": "114",
+   "name": "Eevee",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-115",
+   "set": "me06",
+   "number": "115",
+   "name": "Azurill",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Narumi Sato",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-116",
+   "set": "me06",
+   "number": "116",
+   "name": "Altaria",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "kodama",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-117",
+   "set": "me06",
+   "number": "117",
+   "name": "Kecleon",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Tomokazu Komiya",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-118",
+   "set": "me06",
+   "number": "118",
+   "name": "Mega Golisopod ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-119",
+   "set": "me06",
+   "number": "119",
+   "name": "Heat Rotom ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-120",
+   "set": "me06",
+   "number": "120",
+   "name": "Wishiwashi ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-121",
+   "set": "me06",
+   "number": "121",
+   "name": "Raikou ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "aky CG Works",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-122",
+   "set": "me06",
+   "number": "122",
+   "name": "Mega Golurk ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-123",
+   "set": "me06",
+   "number": "123",
+   "name": "Mega Malamar ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-124",
+   "set": "me06",
+   "number": "124",
+   "name": "Talonflame ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-125",
+   "set": "me06",
+   "number": "125",
+   "name": "Aarune",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-126",
+   "set": "me06",
+   "number": "126",
+   "name": "Adventure Lantern",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "inose yukie",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-127",
+   "set": "me06",
+   "number": "127",
+   "name": "Custom Vest",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Tool",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Toyste Beach",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-128",
+   "set": "me06",
+   "number": "128",
+   "name": "Emcee's Hype",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "DOM",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-129",
+   "set": "me06",
+   "number": "129",
+   "name": "Pokémon Catcher",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Studio Bora Inc.",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-130",
+   "set": "me06",
+   "number": "130",
+   "name": "Tate & Liza's Training",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-131",
+   "set": "me06",
+   "number": "131",
+   "name": "Zinnia's Trust",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "GIDORA",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-132",
+   "set": "me06",
+   "number": "132",
+   "name": "Bubbly Water Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-133",
+   "set": "me06",
+   "number": "133",
+   "name": "Growing Grass Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-134",
+   "set": "me06",
+   "number": "134",
+   "name": "Nitro Fire Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Ultra Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-135",
+   "set": "me06",
+   "number": "135",
+   "name": "Mega Golisopod ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "nagimiso",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-136",
+   "set": "me06",
+   "number": "136",
+   "name": "Raikou ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Oku",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-137",
+   "set": "me06",
+   "number": "137",
+   "name": "Mega Golurk ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Takeshi Nakamura",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-138",
+   "set": "me06",
+   "number": "138",
+   "name": "Mega Rayquaza ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Kazuki Minami",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-139",
+   "set": "me06",
+   "number": "139",
+   "name": "Aarune",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-140",
+   "set": "me06",
+   "number": "140",
+   "name": "Zinnia's Trust",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Special illustration rare",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Teeziro",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  },
+  {
+   "id": "me06-141",
+   "set": "me06",
+   "number": "141",
+   "name": "Mega Rayquaza ex",
+   "category": "Pokemon",
+   "dex": [],
+   "rarity": "Mega Hyper Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "takuyoa",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  }
+ ]
+}

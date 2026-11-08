@@ -1,0 +1,3554 @@
+{
+ "set": "30th",
+ "name": "30th Celebration",
+ "abbreviation": "30C",
+ "releaseDate": "2026-09-16",
+ "cardCount": {
+  "firstEd": 0,
+  "holo": 75,
+  "normal": 86,
+  "official": 128,
+  "reverse": 0,
+  "total": 161
+ },
+ "pulled": "2026-11-08",
+ "source": "https://api.tcgdex.net/v2/en/sets/30th",
+ "cards": [
+  {
+   "id": "30th-001",
+   "set": "30th",
+   "number": "001",
+   "name": "Exeggcute",
+   "category": "Pokemon",
+   "dex": [
+    102
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Nelnal",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/001"
+  },
+  {
+   "id": "30th-002",
+   "set": "30th",
+   "number": "002",
+   "name": "Alolan Exeggutor",
+   "category": "Pokemon",
+   "dex": [
+    103
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Oswaldo KATO",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/002"
+  },
+  {
+   "id": "30th-003",
+   "set": "30th",
+   "number": "003",
+   "name": "Volbeat",
+   "category": "Pokemon",
+   "dex": [
+    313
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yoriyuki Ikegami",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/003"
+  },
+  {
+   "id": "30th-004",
+   "set": "30th",
+   "number": "004",
+   "name": "Illumise",
+   "category": "Pokemon",
+   "dex": [
+    314
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shibuzoh.",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/004"
+  },
+  {
+   "id": "30th-005",
+   "set": "30th",
+   "number": "005",
+   "name": "Tropius",
+   "category": "Pokemon",
+   "dex": [
+    357
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Minahamu",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/005"
+  },
+  {
+   "id": "30th-006",
+   "set": "30th",
+   "number": "006",
+   "name": "Cherubi",
+   "category": "Pokemon",
+   "dex": [
+    420
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kurata So",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/006"
+  },
+  {
+   "id": "30th-007",
+   "set": "30th",
+   "number": "007",
+   "name": "Cherrim",
+   "category": "Pokemon",
+   "dex": [
+    421
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "takashi shiraishi",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/007"
+  },
+  {
+   "id": "30th-008",
+   "set": "30th",
+   "number": "008",
+   "name": "Vivillon",
+   "category": "Pokemon",
+   "dex": [
+    666
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Jerky",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/008"
+  },
+  {
+   "id": "30th-009",
+   "set": "30th",
+   "number": "009",
+   "name": "Vulpix",
+   "category": "Pokemon",
+   "dex": [
+    37
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "miki kudo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/009"
+  },
+  {
+   "id": "30th-010",
+   "set": "30th",
+   "number": "010",
+   "name": "Ninetales",
+   "category": "Pokemon",
+   "dex": [
+    38
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "kodama",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/010"
+  },
+  {
+   "id": "30th-011",
+   "set": "30th",
+   "number": "011",
+   "name": "Moltres",
+   "category": "Pokemon",
+   "dex": [
+    146
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "HYOGONOSUKE",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/011"
+  },
+  {
+   "id": "30th-012",
+   "set": "30th",
+   "number": "012",
+   "name": "Ho-Oh",
+   "category": "Pokemon",
+   "dex": [
+    250
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/012"
+  },
+  {
+   "id": "30th-013",
+   "set": "30th",
+   "number": "013",
+   "name": "Victini",
+   "category": "Pokemon",
+   "dex": [
+    494
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/013"
+  },
+  {
+   "id": "30th-014",
+   "set": "30th",
+   "number": "014",
+   "name": "Reshiram",
+   "category": "Pokemon",
+   "dex": [
+    643
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Uta",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/014"
+  },
+  {
+   "id": "30th-015",
+   "set": "30th",
+   "number": "015",
+   "name": "Fuecoco ex",
+   "category": "Pokemon",
+   "dex": [
+    909
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/015"
+  },
+  {
+   "id": "30th-016",
+   "set": "30th",
+   "number": "016",
+   "name": "Slowpoke",
+   "category": "Pokemon",
+   "dex": [
+    79
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Uninori",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/016"
+  },
+  {
+   "id": "30th-017",
+   "set": "30th",
+   "number": "017",
+   "name": "Lapras",
+   "category": "Pokemon",
+   "dex": [
+    131
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Masa",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/017"
+  },
+  {
+   "id": "30th-018",
+   "set": "30th",
+   "number": "018",
+   "name": "Articuno",
+   "category": "Pokemon",
+   "dex": [
+    144
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "HYOGONOSUKE",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/018"
+  },
+  {
+   "id": "30th-019",
+   "set": "30th",
+   "number": "019",
+   "name": "Kyogre",
+   "category": "Pokemon",
+   "dex": [
+    382
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Tonji Matsuno",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/019"
+  },
+  {
+   "id": "30th-020",
+   "set": "30th",
+   "number": "020",
+   "name": "Palkia",
+   "category": "Pokemon",
+   "dex": [
+    484
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "kawayoo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/020"
+  },
+  {
+   "id": "30th-021",
+   "set": "30th",
+   "number": "021",
+   "name": "Greninja ex",
+   "category": "Pokemon",
+   "dex": [
+    658
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/021"
+  },
+  {
+   "id": "30th-022",
+   "set": "30th",
+   "number": "022",
+   "name": "Wishiwashi",
+   "category": "Pokemon",
+   "dex": [
+    746
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Narano",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/022"
+  },
+  {
+   "id": "30th-023",
+   "set": "30th",
+   "number": "023",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Ken Sugimori",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/023"
+  },
+  {
+   "id": "30th-024",
+   "set": "30th",
+   "number": "024",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "danciao",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/024"
+  },
+  {
+   "id": "30th-025",
+   "set": "30th",
+   "number": "025",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "satoma",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/025"
+  },
+  {
+   "id": "30th-026",
+   "set": "30th",
+   "number": "026",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Takeshi Nakamura",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/026"
+  },
+  {
+   "id": "30th-027",
+   "set": "30th",
+   "number": "027",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Asako Ito",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/027"
+  },
+  {
+   "id": "30th-028",
+   "set": "30th",
+   "number": "028",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "sowsow",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/028"
+  },
+  {
+   "id": "30th-029",
+   "set": "30th",
+   "number": "029",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "James Turner",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/029"
+  },
+  {
+   "id": "30th-030",
+   "set": "30th",
+   "number": "030",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "DOM",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/030"
+  },
+  {
+   "id": "30th-031",
+   "set": "30th",
+   "number": "031",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Atsushi Furusawa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/031"
+  },
+  {
+   "id": "30th-032",
+   "set": "30th",
+   "number": "032",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Tomokazu Komiya",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/032"
+  },
+  {
+   "id": "30th-033",
+   "set": "30th",
+   "number": "033",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Narumi Sato",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/033"
+  },
+  {
+   "id": "30th-034",
+   "set": "30th",
+   "number": "034",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "USGMEN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/034"
+  },
+  {
+   "id": "30th-035",
+   "set": "30th",
+   "number": "035",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Susumu Maeya",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/035"
+  },
+  {
+   "id": "30th-036",
+   "set": "30th",
+   "number": "036",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "OKACHEKE",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/036"
+  },
+  {
+   "id": "30th-037",
+   "set": "30th",
+   "number": "037",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/037"
+  },
+  {
+   "id": "30th-038",
+   "set": "30th",
+   "number": "038",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Tetsu Kayama",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/038"
+  },
+  {
+   "id": "30th-039",
+   "set": "30th",
+   "number": "039",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Teeziro",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/039"
+  },
+  {
+   "id": "30th-040",
+   "set": "30th",
+   "number": "040",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shinji Kanda",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/040"
+  },
+  {
+   "id": "30th-041",
+   "set": "30th",
+   "number": "041",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Rianti Hidayat",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/041"
+  },
+  {
+   "id": "30th-042",
+   "set": "30th",
+   "number": "042",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Akira Komayama",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/042"
+  },
+  {
+   "id": "30th-043",
+   "set": "30th",
+   "number": "043",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "OOYAMA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/043"
+  },
+  {
+   "id": "30th-044",
+   "set": "30th",
+   "number": "044",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "akagi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/044"
+  },
+  {
+   "id": "30th-045",
+   "set": "30th",
+   "number": "045",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Naoyo Kimura",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/045"
+  },
+  {
+   "id": "30th-046",
+   "set": "30th",
+   "number": "046",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "svlt",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/046"
+  },
+  {
+   "id": "30th-047",
+   "set": "30th",
+   "number": "047",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Atsuko Nishida",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/047"
+  },
+  {
+   "id": "30th-048",
+   "set": "30th",
+   "number": "048",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "KIYOTAKA OSHIYAMA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/048"
+  },
+  {
+   "id": "30th-049",
+   "set": "30th",
+   "number": "049",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Nurikabe",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/049"
+  },
+  {
+   "id": "30th-050",
+   "set": "30th",
+   "number": "050",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/050"
+  },
+  {
+   "id": "30th-051",
+   "set": "30th",
+   "number": "051",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "nagimiso",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/051"
+  },
+  {
+   "id": "30th-052",
+   "set": "30th",
+   "number": "052",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Pikachu Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kazuki Minami",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/052"
+  },
+  {
+   "id": "30th-053",
+   "set": "30th",
+   "number": "053",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/053"
+  },
+  {
+   "id": "30th-054",
+   "set": "30th",
+   "number": "054",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/054"
+  },
+  {
+   "id": "30th-055",
+   "set": "30th",
+   "number": "055",
+   "name": "Zapdos",
+   "category": "Pokemon",
+   "dex": [
+    145
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "HYOGONOSUKE",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/055"
+  },
+  {
+   "id": "30th-056",
+   "set": "30th",
+   "number": "056",
+   "name": "Zekrom",
+   "category": "Pokemon",
+   "dex": [
+    644
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "akagi",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/056"
+  },
+  {
+   "id": "30th-057",
+   "set": "30th",
+   "number": "057",
+   "name": "Zeraora",
+   "category": "Pokemon",
+   "dex": [
+    807
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Bun Toujo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/057"
+  },
+  {
+   "id": "30th-058",
+   "set": "30th",
+   "number": "058",
+   "name": "Toxel",
+   "category": "Pokemon",
+   "dex": [
+    848
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/058"
+  },
+  {
+   "id": "30th-059",
+   "set": "30th",
+   "number": "059",
+   "name": "Toxtricity",
+   "category": "Pokemon",
+   "dex": [
+    849
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Haru Akasaka",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/059"
+  },
+  {
+   "id": "30th-060",
+   "set": "30th",
+   "number": "060",
+   "name": "Toxtricity",
+   "category": "Pokemon",
+   "dex": [
+    849
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yuriko Akase",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/060"
+  },
+  {
+   "id": "30th-061",
+   "set": "30th",
+   "number": "061",
+   "name": "Morpeko",
+   "category": "Pokemon",
+   "dex": [
+    877
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Naoki Saito",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/061"
+  },
+  {
+   "id": "30th-062",
+   "set": "30th",
+   "number": "062",
+   "name": "Miraidon",
+   "category": "Pokemon",
+   "dex": [
+    1008
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/062"
+  },
+  {
+   "id": "30th-063",
+   "set": "30th",
+   "number": "063",
+   "name": "Mewtwo",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "nagimiso",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/063"
+  },
+  {
+   "id": "30th-064",
+   "set": "30th",
+   "number": "064",
+   "name": "Mewtwo ex",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/064"
+  },
+  {
+   "id": "30th-065",
+   "set": "30th",
+   "number": "065",
+   "name": "Mew",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "danciao",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/065"
+  },
+  {
+   "id": "30th-066",
+   "set": "30th",
+   "number": "066",
+   "name": "Mew ex",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/066"
+  },
+  {
+   "id": "30th-067",
+   "set": "30th",
+   "number": "067",
+   "name": "Marill",
+   "category": "Pokemon",
+   "dex": [
+    183
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saya Tsuruta",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/067"
+  },
+  {
+   "id": "30th-068",
+   "set": "30th",
+   "number": "068",
+   "name": "Azumarill",
+   "category": "Pokemon",
+   "dex": [
+    184
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kagemaru Himeno",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/068"
+  },
+  {
+   "id": "30th-069",
+   "set": "30th",
+   "number": "069",
+   "name": "Espeon",
+   "category": "Pokemon",
+   "dex": [
+    196
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "aspara",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/069"
+  },
+  {
+   "id": "30th-070",
+   "set": "30th",
+   "number": "070",
+   "name": "Espeon ex",
+   "category": "Pokemon",
+   "dex": [
+    196
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/070"
+  },
+  {
+   "id": "30th-071",
+   "set": "30th",
+   "number": "071",
+   "name": "Sylveon ex",
+   "category": "Pokemon",
+   "dex": [
+    700
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/071"
+  },
+  {
+   "id": "30th-072",
+   "set": "30th",
+   "number": "072",
+   "name": "Unown",
+   "category": "Pokemon",
+   "dex": [
+    201
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "mingo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/072"
+  },
+  {
+   "id": "30th-073",
+   "set": "30th",
+   "number": "073",
+   "name": "Drifloon",
+   "category": "Pokemon",
+   "dex": [
+    425
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shinya Komatsu",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/073"
+  },
+  {
+   "id": "30th-074",
+   "set": "30th",
+   "number": "074",
+   "name": "Cresselia",
+   "category": "Pokemon",
+   "dex": [
+    488
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "KEIICHIRO ITO",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/074"
+  },
+  {
+   "id": "30th-075",
+   "set": "30th",
+   "number": "075",
+   "name": "Chandelure",
+   "category": "Pokemon",
+   "dex": [
+    609
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yoshioka",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/075"
+  },
+  {
+   "id": "30th-076",
+   "set": "30th",
+   "number": "076",
+   "name": "Xerneas",
+   "category": "Pokemon",
+   "dex": [
+    716
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "kodama",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/076"
+  },
+  {
+   "id": "30th-077",
+   "set": "30th",
+   "number": "077",
+   "name": "Comfey",
+   "category": "Pokemon",
+   "dex": [
+    764
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "sui",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/077"
+  },
+  {
+   "id": "30th-078",
+   "set": "30th",
+   "number": "078",
+   "name": "Cosmog",
+   "category": "Pokemon",
+   "dex": [
+    789
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Mina Nakai",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/078"
+  },
+  {
+   "id": "30th-079",
+   "set": "30th",
+   "number": "079",
+   "name": "Cosmoem",
+   "category": "Pokemon",
+   "dex": [
+    790
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Masako Tomii",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/079"
+  },
+  {
+   "id": "30th-080",
+   "set": "30th",
+   "number": "080",
+   "name": "Lunala",
+   "category": "Pokemon",
+   "dex": [
+    792
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Bun Toujo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/080"
+  },
+  {
+   "id": "30th-081",
+   "set": "30th",
+   "number": "081",
+   "name": "Gimmighoul",
+   "category": "Pokemon",
+   "dex": [
+    999
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Fujimoto Gold",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/081"
+  },
+  {
+   "id": "30th-082",
+   "set": "30th",
+   "number": "082",
+   "name": "Groudon",
+   "category": "Pokemon",
+   "dex": [
+    383
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Takumi Wada",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/082"
+  },
+  {
+   "id": "30th-083",
+   "set": "30th",
+   "number": "083",
+   "name": "Lucario",
+   "category": "Pokemon",
+   "dex": [
+    448
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/083"
+  },
+  {
+   "id": "30th-084",
+   "set": "30th",
+   "number": "084",
+   "name": "Seismitoad",
+   "category": "Pokemon",
+   "dex": [
+    537
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kurata So",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/084"
+  },
+  {
+   "id": "30th-085",
+   "set": "30th",
+   "number": "085",
+   "name": "Lycanroc",
+   "category": "Pokemon",
+   "dex": [
+    745
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "matazo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/085"
+  },
+  {
+   "id": "30th-086",
+   "set": "30th",
+   "number": "086",
+   "name": "Koraidon",
+   "category": "Pokemon",
+   "dex": [
+    1007
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/086"
+  },
+  {
+   "id": "30th-087",
+   "set": "30th",
+   "number": "087",
+   "name": "Nidoran♀",
+   "category": "Pokemon",
+   "dex": [
+    29
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Taira Akitsu",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/087"
+  },
+  {
+   "id": "30th-088",
+   "set": "30th",
+   "number": "088",
+   "name": "Nidorina",
+   "category": "Pokemon",
+   "dex": [
+    30
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Miki Tanaka",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/088"
+  },
+  {
+   "id": "30th-089",
+   "set": "30th",
+   "number": "089",
+   "name": "Alolan Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Natsumi Yoshida",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/089"
+  },
+  {
+   "id": "30th-090",
+   "set": "30th",
+   "number": "090",
+   "name": "Gengar ex",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/090"
+  },
+  {
+   "id": "30th-091",
+   "set": "30th",
+   "number": "091",
+   "name": "Umbreon",
+   "category": "Pokemon",
+   "dex": [
+    197
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Iori Suzuki",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/091"
+  },
+  {
+   "id": "30th-092",
+   "set": "30th",
+   "number": "092",
+   "name": "Umbreon ex",
+   "category": "Pokemon",
+   "dex": [
+    197
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Keisuke Azuma",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/092"
+  },
+  {
+   "id": "30th-093",
+   "set": "30th",
+   "number": "093",
+   "name": "Murkrow",
+   "category": "Pokemon",
+   "dex": [
+    198
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kouki Saitou",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/093"
+  },
+  {
+   "id": "30th-094",
+   "set": "30th",
+   "number": "094",
+   "name": "Scraggy",
+   "category": "Pokemon",
+   "dex": [
+    559
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/094"
+  },
+  {
+   "id": "30th-095",
+   "set": "30th",
+   "number": "095",
+   "name": "Zorua",
+   "category": "Pokemon",
+   "dex": [
+    570
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Atsuya Uki",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/095"
+  },
+  {
+   "id": "30th-096",
+   "set": "30th",
+   "number": "096",
+   "name": "Zoroark",
+   "category": "Pokemon",
+   "dex": [
+    571
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shiburingaru",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/096"
+  },
+  {
+   "id": "30th-097",
+   "set": "30th",
+   "number": "097",
+   "name": "Deino",
+   "category": "Pokemon",
+   "dex": [
+    633
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Gapao",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/097"
+  },
+  {
+   "id": "30th-098",
+   "set": "30th",
+   "number": "098",
+   "name": "Zweilous",
+   "category": "Pokemon",
+   "dex": [
+    634
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "IKEDA Saki",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/098"
+  },
+  {
+   "id": "30th-099",
+   "set": "30th",
+   "number": "099",
+   "name": "Hydreigon",
+   "category": "Pokemon",
+   "dex": [
+    635
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Ryuta Fuse",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/099"
+  },
+  {
+   "id": "30th-100",
+   "set": "30th",
+   "number": "100",
+   "name": "Yveltal",
+   "category": "Pokemon",
+   "dex": [
+    717
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "hncl",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/100"
+  },
+  {
+   "id": "30th-101",
+   "set": "30th",
+   "number": "101",
+   "name": "Galarian Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Mékayu",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/101"
+  },
+  {
+   "id": "30th-102",
+   "set": "30th",
+   "number": "102",
+   "name": "Jirachi ex",
+   "category": "Pokemon",
+   "dex": [
+    385
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/102"
+  },
+  {
+   "id": "30th-103",
+   "set": "30th",
+   "number": "103",
+   "name": "Dialga",
+   "category": "Pokemon",
+   "dex": [
+    483
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "toriyufu",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/103"
+  },
+  {
+   "id": "30th-104",
+   "set": "30th",
+   "number": "104",
+   "name": "Ferrothorn",
+   "category": "Pokemon",
+   "dex": [
+    598
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Po-Suzuki",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/104"
+  },
+  {
+   "id": "30th-105",
+   "set": "30th",
+   "number": "105",
+   "name": "Solgaleo",
+   "category": "Pokemon",
+   "dex": [
+    791
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Nurikabe",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/105"
+  },
+  {
+   "id": "30th-106",
+   "set": "30th",
+   "number": "106",
+   "name": "Zacian",
+   "category": "Pokemon",
+   "dex": [
+    888
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "AKIRA EGAWA",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/106"
+  },
+  {
+   "id": "30th-107",
+   "set": "30th",
+   "number": "107",
+   "name": "Zamazenta",
+   "category": "Pokemon",
+   "dex": [
+    889
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Tsuyoshi Nagano",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/107"
+  },
+  {
+   "id": "30th-108",
+   "set": "30th",
+   "number": "108",
+   "name": "Gholdengo",
+   "category": "Pokemon",
+   "dex": [
+    1000
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Sanosuke Sakuma",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/108"
+  },
+  {
+   "id": "30th-109",
+   "set": "30th",
+   "number": "109",
+   "name": "Salamence ex",
+   "category": "Pokemon",
+   "dex": [
+    373
+   ],
+   "rarity": "Double rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/109"
+  },
+  {
+   "id": "30th-110",
+   "set": "30th",
+   "number": "110",
+   "name": "Jangmo-o",
+   "category": "Pokemon",
+   "dex": [
+    782
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "miki kudo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/110"
+  },
+  {
+   "id": "30th-111",
+   "set": "30th",
+   "number": "111",
+   "name": "Hakamo-o",
+   "category": "Pokemon",
+   "dex": [
+    783
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/111"
+  },
+  {
+   "id": "30th-112",
+   "set": "30th",
+   "number": "112",
+   "name": "Kommo-o",
+   "category": "Pokemon",
+   "dex": [
+    784
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "MARINA Chikazawa",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/112"
+  },
+  {
+   "id": "30th-113",
+   "set": "30th",
+   "number": "113",
+   "name": "Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "MINAMINAMI Take",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/113"
+  },
+  {
+   "id": "30th-114",
+   "set": "30th",
+   "number": "114",
+   "name": "Kangaskhan",
+   "category": "Pokemon",
+   "dex": [
+    115
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Pani Kobayashi",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/114"
+  },
+  {
+   "id": "30th-115",
+   "set": "30th",
+   "number": "115",
+   "name": "Ditto",
+   "category": "Pokemon",
+   "dex": [
+    132
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Toshinao Aoki",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/115"
+  },
+  {
+   "id": "30th-116",
+   "set": "30th",
+   "number": "116",
+   "name": "Eevee",
+   "category": "Pokemon",
+   "dex": [
+    133
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Wintr Wandr",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/116"
+  },
+  {
+   "id": "30th-117",
+   "set": "30th",
+   "number": "117",
+   "name": "Eevee",
+   "category": "Pokemon",
+   "dex": [
+    133
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "En Morikura",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/117"
+  },
+  {
+   "id": "30th-118",
+   "set": "30th",
+   "number": "118",
+   "name": "Eevee",
+   "category": "Pokemon",
+   "dex": [
+    133
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Hitoshi Ariga",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/118"
+  },
+  {
+   "id": "30th-119",
+   "set": "30th",
+   "number": "119",
+   "name": "Snorlax",
+   "category": "Pokemon",
+   "dex": [
+    143
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Aya Kusube",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/119"
+  },
+  {
+   "id": "30th-120",
+   "set": "30th",
+   "number": "120",
+   "name": "Igglybuff",
+   "category": "Pokemon",
+   "dex": [
+    174
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kanami Ogata",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/120"
+  },
+  {
+   "id": "30th-121",
+   "set": "30th",
+   "number": "121",
+   "name": "Lugia",
+   "category": "Pokemon",
+   "dex": [
+    249
+   ],
+   "rarity": "Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kazuki Minami",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/121"
+  },
+  {
+   "id": "30th-122",
+   "set": "30th",
+   "number": "122",
+   "name": "Hisuian Zorua",
+   "category": "Pokemon",
+   "dex": [
+    570
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Megumi Mizutani",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/122"
+  },
+  {
+   "id": "30th-123",
+   "set": "30th",
+   "number": "123",
+   "name": "Hisuian Zoroark",
+   "category": "Pokemon",
+   "dex": [
+    571
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kamome Shirahama",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/123"
+  },
+  {
+   "id": "30th-124",
+   "set": "30th",
+   "number": "124",
+   "name": "Minior",
+   "category": "Pokemon",
+   "dex": [
+    774
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "ryoma uratsuka",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/124"
+  },
+  {
+   "id": "30th-125",
+   "set": "30th",
+   "number": "125",
+   "name": "Maushold",
+   "category": "Pokemon",
+   "dex": [
+    925
+   ],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kariya",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/125"
+  },
+  {
+   "id": "30th-126",
+   "set": "30th",
+   "number": "126",
+   "name": "Poké Pad",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yuka Morii",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/126"
+  },
+  {
+   "id": "30th-127",
+   "set": "30th",
+   "number": "127",
+   "name": "Switch",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yuka Morii",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/127"
+  },
+  {
+   "id": "30th-128",
+   "set": "30th",
+   "number": "128",
+   "name": "Ultra Ball",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": "Item",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yuka Morii",
+   "variants": [
+    "normal"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/128"
+  },
+  {
+   "id": "30th-129",
+   "set": "30th",
+   "number": "129",
+   "name": "Alolan Exeggutor",
+   "category": "Pokemon",
+   "dex": [
+    103
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "AYUMI ODASHIMA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/129"
+  },
+  {
+   "id": "30th-130",
+   "set": "30th",
+   "number": "130",
+   "name": "Moltres",
+   "category": "Pokemon",
+   "dex": [
+    146
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "mashu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/130"
+  },
+  {
+   "id": "30th-131",
+   "set": "30th",
+   "number": "131",
+   "name": "Lapras",
+   "category": "Pokemon",
+   "dex": [
+    131
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Amelicart",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/131"
+  },
+  {
+   "id": "30th-132",
+   "set": "30th",
+   "number": "132",
+   "name": "Articuno",
+   "category": "Pokemon",
+   "dex": [
+    144
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "mashu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/132"
+  },
+  {
+   "id": "30th-133",
+   "set": "30th",
+   "number": "133",
+   "name": "Zapdos",
+   "category": "Pokemon",
+   "dex": [
+    145
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "mashu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/133"
+  },
+  {
+   "id": "30th-134",
+   "set": "30th",
+   "number": "134",
+   "name": "Toxtricity",
+   "category": "Pokemon",
+   "dex": [
+    849
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/134"
+  },
+  {
+   "id": "30th-135",
+   "set": "30th",
+   "number": "135",
+   "name": "Morpeko",
+   "category": "Pokemon",
+   "dex": [
+    877
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yoshimi Miyoshi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/135"
+  },
+  {
+   "id": "30th-136",
+   "set": "30th",
+   "number": "136",
+   "name": "Drifloon",
+   "category": "Pokemon",
+   "dex": [
+    425
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Whisker",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/136"
+  },
+  {
+   "id": "30th-137",
+   "set": "30th",
+   "number": "137",
+   "name": "Chandelure",
+   "category": "Pokemon",
+   "dex": [
+    609
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YASHIRO Nanaco",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/137"
+  },
+  {
+   "id": "30th-138",
+   "set": "30th",
+   "number": "138",
+   "name": "Lycanroc",
+   "category": "Pokemon",
+   "dex": [
+    745
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Raita Kazama",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/138"
+  },
+  {
+   "id": "30th-139",
+   "set": "30th",
+   "number": "139",
+   "name": "Alolan Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "OKUBO",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/139"
+  },
+  {
+   "id": "30th-140",
+   "set": "30th",
+   "number": "140",
+   "name": "Scraggy",
+   "category": "Pokemon",
+   "dex": [
+    559
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "GOSSAN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/140"
+  },
+  {
+   "id": "30th-141",
+   "set": "30th",
+   "number": "141",
+   "name": "Galarian Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "OKUBO",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/141"
+  },
+  {
+   "id": "30th-142",
+   "set": "30th",
+   "number": "142",
+   "name": "Gholdengo",
+   "category": "Pokemon",
+   "dex": [
+    1000
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "toriyufu",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/142"
+  },
+  {
+   "id": "30th-143",
+   "set": "30th",
+   "number": "143",
+   "name": "Kommo-o",
+   "category": "Pokemon",
+   "dex": [
+    784
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Gemi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/143"
+  },
+  {
+   "id": "30th-144",
+   "set": "30th",
+   "number": "144",
+   "name": "Meowth",
+   "category": "Pokemon",
+   "dex": [
+    52
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "OKUBO",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/144"
+  },
+  {
+   "id": "30th-145",
+   "set": "30th",
+   "number": "145",
+   "name": "Hisuian Zorua",
+   "category": "Pokemon",
+   "dex": [
+    570
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "0313",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/145"
+  },
+  {
+   "id": "30th-146",
+   "set": "30th",
+   "number": "146",
+   "name": "Maushold",
+   "category": "Pokemon",
+   "dex": [
+    925
+   ],
+   "rarity": "Illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "osare",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/146"
+  },
+  {
+   "id": "30th-147",
+   "set": "30th",
+   "number": "147",
+   "name": "Fuecoco ex",
+   "category": "Pokemon",
+   "dex": [
+    909
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Atsushi Furusawa",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/147"
+  },
+  {
+   "id": "30th-148",
+   "set": "30th",
+   "number": "148",
+   "name": "Greninja ex",
+   "category": "Pokemon",
+   "dex": [
+    658
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "GIDORA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/148"
+  },
+  {
+   "id": "30th-149",
+   "set": "30th",
+   "number": "149",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "kantaro",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/149"
+  },
+  {
+   "id": "30th-150",
+   "set": "30th",
+   "number": "150",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "kantaro",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/150"
+  },
+  {
+   "id": "30th-151",
+   "set": "30th",
+   "number": "151",
+   "name": "Mewtwo ex",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yano Keiji",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/151"
+  },
+  {
+   "id": "30th-152",
+   "set": "30th",
+   "number": "152",
+   "name": "Mew ex",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Kuroimori",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/152"
+  },
+  {
+   "id": "30th-153",
+   "set": "30th",
+   "number": "153",
+   "name": "Sylveon ex",
+   "category": "Pokemon",
+   "dex": [
+    700
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "You Iribi",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/153"
+  },
+  {
+   "id": "30th-154",
+   "set": "30th",
+   "number": "154",
+   "name": "Gengar ex",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "CHORISO",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/154"
+  },
+  {
+   "id": "30th-155",
+   "set": "30th",
+   "number": "155",
+   "name": "Jirachi ex",
+   "category": "Pokemon",
+   "dex": [
+    385
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "AKIRA EGAWA",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/155"
+  },
+  {
+   "id": "30th-156",
+   "set": "30th",
+   "number": "156",
+   "name": "Salamence ex",
+   "category": "Pokemon",
+   "dex": [
+    373
+   ],
+   "rarity": "Special illustration rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Ryota Murayama",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/156"
+  },
+  {
+   "id": "30th-157",
+   "set": "30th",
+   "number": "157",
+   "name": "Mewtwo ex",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Futuristic Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/157"
+  },
+  {
+   "id": "30th-158",
+   "set": "30th",
+   "number": "158",
+   "name": "Mew ex",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "Futuristic Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/158"
+  },
+  {
+   "id": "30th-B",
+   "set": "30th",
+   "number": "B",
+   "name": "Mew",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "RGB Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/B"
+  },
+  {
+   "id": "30th-G",
+   "set": "30th",
+   "number": "G",
+   "name": "Mew",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "RGB Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/G"
+  },
+  {
+   "id": "30th-R",
+   "set": "30th",
+   "number": "R",
+   "name": "Mew",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "RGB Rare",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": "https://assets.tcgdex.net/en/me/30th/R"
+  }
+ ]
+}

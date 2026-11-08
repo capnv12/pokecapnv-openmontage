@@ -1,0 +1,346 @@
+{
+ "set": "mee",
+ "name": "Mega Evolution Energy",
+ "abbreviation": "MEE",
+ "releaseDate": "2025-09-25",
+ "cardCount": {
+  "firstEd": 0,
+  "holo": 8,
+  "normal": 8,
+  "official": 16,
+  "reverse": 8,
+  "total": 16
+ },
+ "pulled": "2026-11-08",
+ "source": "https://api.tcgdex.net/v2/en/sets/mee",
+ "cards": [
+  {
+   "id": "mee-001",
+   "set": "mee",
+   "number": "001",
+   "name": "Grass Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-002",
+   "set": "mee",
+   "number": "002",
+   "name": "Fire Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-003",
+   "set": "mee",
+   "number": "003",
+   "name": "Water Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-004",
+   "set": "mee",
+   "number": "004",
+   "name": "Lightning Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-005",
+   "set": "mee",
+   "number": "005",
+   "name": "Psychic Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-006",
+   "set": "mee",
+   "number": "006",
+   "name": "Fighting Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-007",
+   "set": "mee",
+   "number": "007",
+   "name": "Darkness Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-008",
+   "set": "mee",
+   "number": "008",
+   "name": "Metal Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": null,
+   "variants": [
+    "normal",
+    "reverse"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-009",
+   "set": "mee",
+   "number": "009",
+   "name": "Basic Grass Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-010",
+   "set": "mee",
+   "number": "010",
+   "name": "Basic Fire Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-011",
+   "set": "mee",
+   "number": "011",
+   "name": "Basic Water Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-012",
+   "set": "mee",
+   "number": "012",
+   "name": "Basic Lightning Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-013",
+   "set": "mee",
+   "number": "013",
+   "name": "Basic Psychic Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-014",
+   "set": "mee",
+   "number": "014",
+   "name": "Basic Fighting Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-015",
+   "set": "mee",
+   "number": "015",
+   "name": "Basic Darkness Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mee-016",
+   "set": "mee",
+   "number": "016",
+   "name": "Basic Metal Energy",
+   "category": "Energy",
+   "dex": [],
+   "rarity": "Common",
+   "trainerType": null,
+   "energyType": "Normal",
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  }
+ ]
+}

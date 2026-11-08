@@ -1,0 +1,2476 @@
+{
+ "set": "mep",
+ "name": "MEP Black Star Promos",
+ "abbreviation": "MEP",
+ "releaseDate": "2025-09-26",
+ "cardCount": {
+  "firstEd": 0,
+  "holo": 148,
+  "normal": 1,
+  "official": 0,
+  "reverse": 0,
+  "total": 112
+ },
+ "pulled": "2026-11-08",
+ "source": "https://api.tcgdex.net/v2/en/sets/mep",
+ "cards": [
+  {
+   "id": "mep-001",
+   "set": "mep",
+   "number": "001",
+   "name": "Meganium",
+   "category": "Pokemon",
+   "dex": [
+    154
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Bayleef",
+   "regulationMark": "I",
+   "illustrator": "Uninori",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-002",
+   "set": "mep",
+   "number": "002",
+   "name": "Inteleon",
+   "category": "Pokemon",
+   "dex": [
+    818
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Drizzile",
+   "regulationMark": "I",
+   "illustrator": "Kazumasa Yasukuni",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-003",
+   "set": "mep",
+   "number": "003",
+   "name": "Alakazam",
+   "category": "Pokemon",
+   "dex": [
+    65
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Kadabra",
+   "regulationMark": "I",
+   "illustrator": "cochi8i",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-004",
+   "set": "mep",
+   "number": "004",
+   "name": "Lunatone",
+   "category": "Pokemon",
+   "dex": [
+    337
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Ounishi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-005",
+   "set": "mep",
+   "number": "005",
+   "name": "Drifloon",
+   "category": "Pokemon",
+   "dex": [
+    425
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-006",
+   "set": "mep",
+   "number": "006",
+   "name": "Drifblim",
+   "category": "Pokemon",
+   "dex": [
+    426
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Drifloon",
+   "regulationMark": "I",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-007",
+   "set": "mep",
+   "number": "007",
+   "name": "Psyduck",
+   "category": "Pokemon",
+   "dex": [
+    54
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-008",
+   "set": "mep",
+   "number": "008",
+   "name": "Golduck",
+   "category": "Pokemon",
+   "dex": [
+    55
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Psyduck",
+   "regulationMark": "I",
+   "illustrator": "Jiro Sasumo",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-009",
+   "set": "mep",
+   "number": "009",
+   "name": "Alakazam",
+   "category": "Pokemon",
+   "dex": [
+    65
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Kadabra",
+   "regulationMark": "I",
+   "illustrator": "Aya Kusube",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-010",
+   "set": "mep",
+   "number": "010",
+   "name": "Riolu",
+   "category": "Pokemon",
+   "dex": [
+    447
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "GOSSAN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-011",
+   "set": "mep",
+   "number": "011",
+   "name": "Mega Latias ex",
+   "category": "Pokemon",
+   "dex": [
+    380
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-012",
+   "set": "mep",
+   "number": "012",
+   "name": "Mega Lucario ex",
+   "category": "Pokemon",
+   "dex": [
+    448
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Riolu",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-013",
+   "set": "mep",
+   "number": "013",
+   "name": "Mega Venusaur ex",
+   "category": "Pokemon",
+   "dex": [
+    3
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Ivysaur",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-014",
+   "set": "mep",
+   "number": "014",
+   "name": "Ceruledge",
+   "category": "Pokemon",
+   "dex": [
+    937
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Charcadet",
+   "regulationMark": "I",
+   "illustrator": "Anesaki Dynamic",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-015",
+   "set": "mep",
+   "number": "015",
+   "name": "Zacian",
+   "category": "Pokemon",
+   "dex": [
+    888
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Shiburingaru",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-016",
+   "set": "mep",
+   "number": "016",
+   "name": "Flygon",
+   "category": "Pokemon",
+   "dex": [
+    330
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Vibrava",
+   "regulationMark": "I",
+   "illustrator": "Oswaldo KATO",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-017",
+   "set": "mep",
+   "number": "017",
+   "name": "Toxtricity",
+   "category": "Pokemon",
+   "dex": [
+    849
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Toxel",
+   "regulationMark": "I",
+   "illustrator": "Krgc",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-018",
+   "set": "mep",
+   "number": "018",
+   "name": "Cottonee",
+   "category": "Pokemon",
+   "dex": [
+    546
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Kariya",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-019",
+   "set": "mep",
+   "number": "019",
+   "name": "Whimsicott",
+   "category": "Pokemon",
+   "dex": [
+    547
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Cottonee",
+   "regulationMark": "I",
+   "illustrator": "Yuka Tanaka",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-020",
+   "set": "mep",
+   "number": "020",
+   "name": "Sneasel",
+   "category": "Pokemon",
+   "dex": [
+    215
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-021",
+   "set": "mep",
+   "number": "021",
+   "name": "Weavile",
+   "category": "Pokemon",
+   "dex": [
+    461
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Sneasel",
+   "regulationMark": "I",
+   "illustrator": "matazo",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-022",
+   "set": "mep",
+   "number": "022",
+   "name": "Charcadet",
+   "category": "Pokemon",
+   "dex": [
+    935
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Teeziro",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-023",
+   "set": "mep",
+   "number": "023",
+   "name": "Mega Charizard X ex",
+   "category": "Pokemon",
+   "dex": [
+    6
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Charmeleon",
+   "regulationMark": "I",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-024",
+   "set": "mep",
+   "number": "024",
+   "name": "Oricorio ex",
+   "category": "Pokemon",
+   "dex": [
+    741
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Shinji Kanda",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-025",
+   "set": "mep",
+   "number": "025",
+   "name": "Mega Kangaskhan ex",
+   "category": "Pokemon",
+   "dex": [
+    115
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-026",
+   "set": "mep",
+   "number": "026",
+   "name": "Meloetta",
+   "category": "Pokemon",
+   "dex": [
+    648
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Keisin",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-027",
+   "set": "mep",
+   "number": "027",
+   "name": "Haunter",
+   "category": "Pokemon",
+   "dex": [
+    93
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Gastly",
+   "regulationMark": "I",
+   "illustrator": "Arai Kiriko",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-028",
+   "set": "mep",
+   "number": "028",
+   "name": "Celebratory Fanfare",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Promo",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-029",
+   "set": "mep",
+   "number": "029",
+   "name": "Mega Charizard X ex",
+   "category": "Pokemon",
+   "dex": [
+    6
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Charmeleon",
+   "regulationMark": "I",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-030",
+   "set": "mep",
+   "number": "030",
+   "name": "Mega Charizard Y ex",
+   "category": "Pokemon",
+   "dex": [
+    6
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Charmeleon",
+   "regulationMark": "J",
+   "illustrator": "Ultimateinudog",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-031",
+   "set": "mep",
+   "number": "031",
+   "name": "N's Zekrom",
+   "category": "Pokemon",
+   "dex": [
+    644
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Bun Toujo",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-032",
+   "set": "mep",
+   "number": "032",
+   "name": "Mega Gardevoir ex",
+   "category": "Pokemon",
+   "dex": [
+    282
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Kirlia",
+   "regulationMark": "I",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-033",
+   "set": "mep",
+   "number": "033",
+   "name": "Mega Lucario ex",
+   "category": "Pokemon",
+   "dex": [
+    448
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Riolu",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-034",
+   "set": "mep",
+   "number": "034",
+   "name": "Mega Meganium ex",
+   "category": "Pokemon",
+   "dex": [
+    154
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Bayleef",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-035",
+   "set": "mep",
+   "number": "035",
+   "name": "Mega Emboar ex",
+   "category": "Pokemon",
+   "dex": [
+    500
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Pignite",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-036",
+   "set": "mep",
+   "number": "036",
+   "name": "Mega Feraligatr ex",
+   "category": "Pokemon",
+   "dex": [
+    160
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Croconaw",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-037",
+   "set": "mep",
+   "number": "037",
+   "name": "Bulbasaur",
+   "category": "Pokemon",
+   "dex": [
+    1
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-038",
+   "set": "mep",
+   "number": "038",
+   "name": "Charmander",
+   "category": "Pokemon",
+   "dex": [
+    4
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-039",
+   "set": "mep",
+   "number": "039",
+   "name": "Squirtle",
+   "category": "Pokemon",
+   "dex": [
+    7
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-040",
+   "set": "mep",
+   "number": "040",
+   "name": "Turtwig",
+   "category": "Pokemon",
+   "dex": [
+    387
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-041",
+   "set": "mep",
+   "number": "041",
+   "name": "Chimchar",
+   "category": "Pokemon",
+   "dex": [
+    390
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-042",
+   "set": "mep",
+   "number": "042",
+   "name": "Piplup",
+   "category": "Pokemon",
+   "dex": [
+    393
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-043",
+   "set": "mep",
+   "number": "043",
+   "name": "Rowlet",
+   "category": "Pokemon",
+   "dex": [
+    722
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-044",
+   "set": "mep",
+   "number": "044",
+   "name": "Litten",
+   "category": "Pokemon",
+   "dex": [
+    725
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-045",
+   "set": "mep",
+   "number": "045",
+   "name": "Popplio",
+   "category": "Pokemon",
+   "dex": [
+    728
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-046",
+   "set": "mep",
+   "number": "046",
+   "name": "Chikorita",
+   "category": "Pokemon",
+   "dex": [
+    152
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-047",
+   "set": "mep",
+   "number": "047",
+   "name": "Cyndaquil",
+   "category": "Pokemon",
+   "dex": [
+    155
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-048",
+   "set": "mep",
+   "number": "048",
+   "name": "Totodile",
+   "category": "Pokemon",
+   "dex": [
+    158
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-049",
+   "set": "mep",
+   "number": "049",
+   "name": "Snivy",
+   "category": "Pokemon",
+   "dex": [
+    495
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-050",
+   "set": "mep",
+   "number": "050",
+   "name": "Tepig",
+   "category": "Pokemon",
+   "dex": [
+    498
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-051",
+   "set": "mep",
+   "number": "051",
+   "name": "Oshawott",
+   "category": "Pokemon",
+   "dex": [
+    501
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "j",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-052",
+   "set": "mep",
+   "number": "052",
+   "name": "Grookey",
+   "category": "Pokemon",
+   "dex": [
+    810
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-053",
+   "set": "mep",
+   "number": "053",
+   "name": "Scorbunny",
+   "category": "Pokemon",
+   "dex": [
+    813
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-054",
+   "set": "mep",
+   "number": "054",
+   "name": "Sobble",
+   "category": "Pokemon",
+   "dex": [
+    816
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-055",
+   "set": "mep",
+   "number": "055",
+   "name": "Treecko",
+   "category": "Pokemon",
+   "dex": [
+    252
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-056",
+   "set": "mep",
+   "number": "056",
+   "name": "Torchic",
+   "category": "Pokemon",
+   "dex": [
+    255
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-057",
+   "set": "mep",
+   "number": "057",
+   "name": "Mudkip",
+   "category": "Pokemon",
+   "dex": [
+    258
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-058",
+   "set": "mep",
+   "number": "058",
+   "name": "Chespin",
+   "category": "Pokemon",
+   "dex": [
+    650
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-059",
+   "set": "mep",
+   "number": "059",
+   "name": "Fennekin",
+   "category": "Pokemon",
+   "dex": [
+    653
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-060",
+   "set": "mep",
+   "number": "060",
+   "name": "Froakie",
+   "category": "Pokemon",
+   "dex": [
+    656
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-061",
+   "set": "mep",
+   "number": "061",
+   "name": "Sprigatito",
+   "category": "Pokemon",
+   "dex": [
+    906
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-062",
+   "set": "mep",
+   "number": "062",
+   "name": "Fuecoco",
+   "category": "Pokemon",
+   "dex": [
+    909
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-063",
+   "set": "mep",
+   "number": "063",
+   "name": "Quaxly",
+   "category": "Pokemon",
+   "dex": [
+    912
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Saboteri",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-064",
+   "set": "mep",
+   "number": "064",
+   "name": "Serperior",
+   "category": "Pokemon",
+   "dex": [
+    497
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Servine",
+   "regulationMark": "J",
+   "illustrator": "LINNE",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-065",
+   "set": "mep",
+   "number": "065",
+   "name": "Barbaracle",
+   "category": "Pokemon",
+   "dex": [
+    689
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Binacle",
+   "regulationMark": "J",
+   "illustrator": "Hasuno",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-066",
+   "set": "mep",
+   "number": "066",
+   "name": "Tyrantrum",
+   "category": "Pokemon",
+   "dex": [
+    697
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Tyrunt",
+   "regulationMark": "J",
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-067",
+   "set": "mep",
+   "number": "067",
+   "name": "Doublade",
+   "category": "Pokemon",
+   "dex": [
+    680
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Honedge",
+   "regulationMark": "J",
+   "illustrator": "Yukihiro Tada",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-068",
+   "set": "mep",
+   "number": "068",
+   "name": "Makuhita",
+   "category": "Pokemon",
+   "dex": [
+    296
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Takeshi Nakamura",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-069",
+   "set": "mep",
+   "number": "069",
+   "name": "Chikorita",
+   "category": "Pokemon",
+   "dex": [
+    152
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Makura Tami",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-070",
+   "set": "mep",
+   "number": "070",
+   "name": "Tyrunt",
+   "category": "Pokemon",
+   "dex": [
+    696
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Antique Jaw Fossil",
+   "regulationMark": "J",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-071",
+   "set": "mep",
+   "number": "071",
+   "name": "Mega Zygarde ex",
+   "category": "Pokemon",
+   "dex": [
+    718
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "takuyoa",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-072",
+   "set": "mep",
+   "number": "072",
+   "name": "Mega Clefable ex",
+   "category": "Pokemon",
+   "dex": [
+    36
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Clefairy",
+   "regulationMark": "J",
+   "illustrator": "aky CG Works",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-073",
+   "set": "mep",
+   "number": "073",
+   "name": "Mega Gengar ex",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Haunter",
+   "regulationMark": "I",
+   "illustrator": "Ultimateinudog",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-074",
+   "set": "mep",
+   "number": "074",
+   "name": "Delphox",
+   "category": "Pokemon",
+   "dex": [
+    655
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Braixen",
+   "regulationMark": "J",
+   "illustrator": "Souichirou Gunjima",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-075",
+   "set": "mep",
+   "number": "075",
+   "name": "Ampharos",
+   "category": "Pokemon",
+   "dex": [
+    181
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Flaaffy",
+   "regulationMark": "J",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-076",
+   "set": "mep",
+   "number": "076",
+   "name": "Crobat",
+   "category": "Pokemon",
+   "dex": [
+    169
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Golbat",
+   "regulationMark": "J",
+   "illustrator": "Apios",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-077",
+   "set": "mep",
+   "number": "077",
+   "name": "Goodra",
+   "category": "Pokemon",
+   "dex": [
+    706
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Sliggoo",
+   "regulationMark": "J",
+   "illustrator": "okayamatakatoshi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-078",
+   "set": "mep",
+   "number": "078",
+   "name": "Toxel",
+   "category": "Pokemon",
+   "dex": [
+    848
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "I",
+   "illustrator": "Mina Nakai",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-079",
+   "set": "mep",
+   "number": "079",
+   "name": "Charmeleon",
+   "category": "Pokemon",
+   "dex": [
+    5
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Charmander",
+   "regulationMark": "I",
+   "illustrator": "Teeziro",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-080",
+   "set": "mep",
+   "number": "080",
+   "name": "Fennekin",
+   "category": "Pokemon",
+   "dex": [
+    653
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "satoma",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-081",
+   "set": "mep",
+   "number": "081",
+   "name": "Mega Greninja ex",
+   "category": "Pokemon",
+   "dex": [
+    658
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Frogadier",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-082",
+   "set": "mep",
+   "number": "082",
+   "name": "Miraidon",
+   "category": "Pokemon",
+   "dex": [
+    1008
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Taira Akitsu",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-083",
+   "set": "mep",
+   "number": "083",
+   "name": "Slowbro",
+   "category": "Pokemon",
+   "dex": [
+    80
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Slowpoke",
+   "regulationMark": "J",
+   "illustrator": "Yuriko Akase",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-084",
+   "set": "mep",
+   "number": "084",
+   "name": "Dhelmise",
+   "category": "Pokemon",
+   "dex": [
+    781
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Dsuke",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-085",
+   "set": "mep",
+   "number": "085",
+   "name": "Bastiodon",
+   "category": "Pokemon",
+   "dex": [
+    411
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": "Shieldon",
+   "regulationMark": "J",
+   "illustrator": "Minahamu",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-086",
+   "set": "mep",
+   "number": "086",
+   "name": "Slowpoke",
+   "category": "Pokemon",
+   "dex": [
+    79
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "miki kudo",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-087",
+   "set": "mep",
+   "number": "087",
+   "name": "Binacle",
+   "category": "Pokemon",
+   "dex": [
+    688
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Shimaris Yukichi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-088",
+   "set": "mep",
+   "number": "088",
+   "name": "Zarude",
+   "category": "Pokemon",
+   "dex": [
+    893
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "IKEDA Saki",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-089",
+   "set": "mep",
+   "number": "089",
+   "name": "Mega Zeraora ex",
+   "category": "Pokemon",
+   "dex": [
+    807
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-090",
+   "set": "mep",
+   "number": "090",
+   "name": "Mega Darkrai ex",
+   "category": "Pokemon",
+   "dex": [
+    491
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-091",
+   "set": "mep",
+   "number": "091",
+   "name": "Mega Dragonite ex",
+   "category": "Pokemon",
+   "dex": [
+    149
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Dragonair",
+   "regulationMark": "I",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-092",
+   "set": "mep",
+   "number": "092",
+   "name": "Paradise Resort",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Promo",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Naoki Saito",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-093",
+   "set": "mep",
+   "number": "093",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "DOM",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-094",
+   "set": "mep",
+   "number": "094",
+   "name": "Alolan Exeggutor",
+   "category": "Pokemon",
+   "dex": [
+    103
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Exeggcute",
+   "regulationMark": "J",
+   "illustrator": "yuu",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-095",
+   "set": "mep",
+   "number": "095",
+   "name": "Lucario",
+   "category": "Pokemon",
+   "dex": [
+    448
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Riolu",
+   "regulationMark": "J",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-096",
+   "set": "mep",
+   "number": "096",
+   "name": "Moltres",
+   "category": "Pokemon",
+   "dex": [
+    146
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Krgc",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-097",
+   "set": "mep",
+   "number": "097",
+   "name": "Articuno",
+   "category": "Pokemon",
+   "dex": [
+    144
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Taira Akitsu",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-098",
+   "set": "mep",
+   "number": "098",
+   "name": "Zapdos",
+   "category": "Pokemon",
+   "dex": [
+    145
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "SIE NANAHARA",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-099",
+   "set": "mep",
+   "number": "099",
+   "name": "Greninja ex",
+   "category": "Pokemon",
+   "dex": [
+    658
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": "ex",
+   "evolveFrom": "Frogadier",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-100",
+   "set": "mep",
+   "number": "100",
+   "name": "Sylveon ex",
+   "category": "Pokemon",
+   "dex": [
+    700
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Eevee",
+   "regulationMark": "J",
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-101",
+   "set": "mep",
+   "number": "101",
+   "name": "Nidorina",
+   "category": "Pokemon",
+   "dex": [
+    30
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": "Nidoran♀",
+   "regulationMark": "J",
+   "illustrator": "Taiga Kasai",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-102",
+   "set": "mep",
+   "number": "102",
+   "name": "Victini",
+   "category": "Pokemon",
+   "dex": [
+    494
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "satoma",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-103",
+   "set": "mep",
+   "number": "103",
+   "name": "Zeraora",
+   "category": "Pokemon",
+   "dex": [
+    807
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "HACCAN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-104",
+   "set": "mep",
+   "number": "104",
+   "name": "Mewtwo",
+   "category": "Pokemon",
+   "dex": [
+    150
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Nisota Niso",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-105",
+   "set": "mep",
+   "number": "105",
+   "name": "Mew",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Cona Nitanda",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-106",
+   "set": "mep",
+   "number": "106",
+   "name": "Ditto",
+   "category": "Pokemon",
+   "dex": [
+    132
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Ounishi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-107",
+   "set": "mep",
+   "number": "107",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-108",
+   "set": "mep",
+   "number": "108",
+   "name": "Espeon ex",
+   "category": "Pokemon",
+   "dex": [
+    196
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Eevee",
+   "regulationMark": "J",
+   "illustrator": "REND",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-109",
+   "set": "mep",
+   "number": "109",
+   "name": "Pikachu ex",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "YOSHIROTTEN",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-110",
+   "set": "mep",
+   "number": "110",
+   "name": "Umbreon ex",
+   "category": "Pokemon",
+   "dex": [
+    197
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": "ex",
+   "evolveFrom": "Eevee",
+   "regulationMark": "J",
+   "illustrator": "REND",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-120",
+   "set": "mep",
+   "number": "120",
+   "name": "Celebratory Fanfare",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "Promo",
+   "trainerType": "Stadium",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": "J",
+   "illustrator": "Yuu Nishida",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "mep-Museum",
+   "set": "mep",
+   "number": "Museum",
+   "name": "Pikachu at the Museum",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "Promo",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Naoyo Kimura",
+   "variants": [
+    "normal"
+   ],
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,677 @@
+{
+ "set": "30th-c",
+ "name": "30th Classic Collection",
+ "abbreviation": "30C",
+ "releaseDate": "2026-09-16",
+ "cardCount": {
+  "firstEd": 0,
+  "holo": 30,
+  "normal": 0,
+  "official": 30,
+  "reverse": 0,
+  "total": 30
+ },
+ "pulled": "2026-11-08",
+ "source": "https://api.tcgdex.net/v2/en/sets/30th-c",
+ "cards": [
+  {
+   "id": "30th-c-001",
+   "set": "30th-c",
+   "number": "001",
+   "name": "Charizard",
+   "category": "Pokemon",
+   "dex": [
+    6
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-002",
+   "set": "30th-c",
+   "number": "002",
+   "name": "Delcatty",
+   "category": "Pokemon",
+   "dex": [
+    301
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage1",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Atsuko Nishida",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-003",
+   "set": "30th-c",
+   "number": "003",
+   "name": "Metagross",
+   "category": "Pokemon",
+   "dex": [
+    376
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Masakazu Fukuda",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-004",
+   "set": "30th-c",
+   "number": "004",
+   "name": "Genesect EX",
+   "category": "Pokemon",
+   "dex": [
+    649
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Eske Yoshinob",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-005",
+   "set": "30th-c",
+   "number": "005",
+   "name": "Misty",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ken Sugimori",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-006",
+   "set": "30th-c",
+   "number": "006",
+   "name": "Dark Tyranitar",
+   "category": "Pokemon",
+   "dex": [
+    248
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Nakaoka",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-007",
+   "set": "30th-c",
+   "number": "007",
+   "name": "Sneasel",
+   "category": "Pokemon",
+   "dex": [
+    215
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ken Sugimori",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-008",
+   "set": "30th-c",
+   "number": "008",
+   "name": "Pikachu & Zekrom GX",
+   "category": "Pokemon",
+   "dex": [
+    25,
+    644
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "GX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-009",
+   "set": "30th-c",
+   "number": "009",
+   "name": "Greninja BREAK",
+   "category": "Pokemon",
+   "dex": [
+    658
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "BREAK",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-010",
+   "set": "30th-c",
+   "number": "010",
+   "name": "Uxie",
+   "category": "Pokemon",
+   "dex": [
+    480
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ken Sugimori",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-011",
+   "set": "30th-c",
+   "number": "011",
+   "name": "Crobat G",
+   "category": "Pokemon",
+   "dex": [
+    169
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "SP",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Makoto Imai",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-012",
+   "set": "30th-c",
+   "number": "012",
+   "name": "Raikou",
+   "category": "Pokemon",
+   "dex": [
+    243
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Hideki Ishikawa",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-013",
+   "set": "30th-c",
+   "number": "013",
+   "name": "Buzzwole GX",
+   "category": "Pokemon",
+   "dex": [
+    794
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "GX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-014",
+   "set": "30th-c",
+   "number": "014",
+   "name": "Pikachu",
+   "category": "Pokemon",
+   "dex": [
+    25
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-015",
+   "set": "30th-c",
+   "number": "015",
+   "name": "Erika's Jigglypuff",
+   "category": "Pokemon",
+   "dex": [
+    39
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ken Sugimori",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-016",
+   "set": "30th-c",
+   "number": "016",
+   "name": "Rayquaza EX",
+   "category": "Pokemon",
+   "dex": [
+    384
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Eske Yoshinob",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-017",
+   "set": "30th-c",
+   "number": "017",
+   "name": "Solgaleo GX",
+   "category": "Pokemon",
+   "dex": [
+    791
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "GX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "PLANETA",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-018",
+   "set": "30th-c",
+   "number": "018",
+   "name": "Gengar",
+   "category": "Pokemon",
+   "dex": [
+    94
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Stage2",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Takashi Yamaguchi",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-019",
+   "set": "30th-c",
+   "number": "019",
+   "name": "Darkrai & Cresselia LEGEND",
+   "category": "Pokemon",
+   "dex": [
+    491,
+    488
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "Legend",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shinji Higuchi + Noriko Takaya",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-020",
+   "set": "30th-c",
+   "number": "020",
+   "name": "Darkrai & Cresselia LEGEND",
+   "category": "Pokemon",
+   "dex": [
+    491,
+    488
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "Legend",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shinji Higuchi + Noriko Takaya",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-021",
+   "set": "30th-c",
+   "number": "021",
+   "name": "N",
+   "category": "Trainer",
+   "dex": [],
+   "rarity": "None",
+   "trainerType": "Supporter",
+   "energyType": null,
+   "stage": null,
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ken Sugimori",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-022",
+   "set": "30th-c",
+   "number": "022",
+   "name": "Palkia",
+   "category": "Pokemon",
+   "dex": [
+    484
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Ryo Ueda",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-023",
+   "set": "30th-c",
+   "number": "023",
+   "name": "M Gardevoir EX",
+   "category": "Pokemon",
+   "dex": [
+    282
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "EX",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-024",
+   "set": "30th-c",
+   "number": "024",
+   "name": "Shining Celebi",
+   "category": "Pokemon",
+   "dex": [
+    251
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Hironobu Yoshida",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-025",
+   "set": "30th-c",
+   "number": "025",
+   "name": "Scizor ex",
+   "category": "Pokemon",
+   "dex": [
+    212
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "ex",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Mitsuhiro Arita",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-026",
+   "set": "30th-c",
+   "number": "026",
+   "name": "Mew VMAX",
+   "category": "Pokemon",
+   "dex": [
+    151
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "VMAX",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-027",
+   "set": "30th-c",
+   "number": "027",
+   "name": "Arceus VSTAR",
+   "category": "Pokemon",
+   "dex": [
+    493
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-028",
+   "set": "30th-c",
+   "number": "028",
+   "name": "Zacian V",
+   "category": "Pokemon",
+   "dex": [
+    888
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": "V",
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "5ban Graphics",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-029",
+   "set": "30th-c",
+   "number": "029",
+   "name": "Lugia",
+   "category": "Pokemon",
+   "dex": [
+    249
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Naoyo Kimura",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  },
+  {
+   "id": "30th-c-030",
+   "set": "30th-c",
+   "number": "030",
+   "name": "Magikarp",
+   "category": "Pokemon",
+   "dex": [
+    129
+   ],
+   "rarity": "None",
+   "trainerType": null,
+   "energyType": null,
+   "stage": "Basic",
+   "suffix": null,
+   "evolveFrom": null,
+   "regulationMark": null,
+   "illustrator": "Shinji Kanda",
+   "variants": [
+    "holo"
+   ],
+   "image": null
+  }
+ ]
+}
